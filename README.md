@@ -126,7 +126,7 @@ All outputs are saved to `./data/` and `./dashboard/`.
 
 **Keith** — Data Science & Machine Learning Engineering
 
-- Email: 1720261562@qq.com
+- Email: shufengzhang@LN.hk
 - GitHub: [@Keith-hot](https://github.com/Keith-hot)
 - Target: Digital Research and B2B Market Research roles at RONIN International
 
