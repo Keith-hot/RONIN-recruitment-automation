@@ -9,7 +9,7 @@
 ---
 
 <p align="center">
-  <img src="./dashboard/funnel_comparison.html" width="900" alt="Funnel Comparison: Manual vs AI-Powered">
+  <img src="./assets/funnel_comparison.png" width="900" alt="Funnel Comparison: Manual vs AI-Powered">
 </p>
 <p align="center">
   <b>Left: Traditional Manual Process (11.1% participation) | Right: AI-Powered (43.1%)</b>
