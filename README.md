@@ -63,10 +63,10 @@ This system replaces the manual workflow with an end-to-end pipeline: **score â†
 
 Open the dashboards directly in your browser:
 
-- [Funnel Comparison](https://keith-hot.github.io/ronin-recruitment-automation/dashboard/funnel_comparison.html)
-- [ROI Timeline](https://keith-hot.github.io/ronin-recruitment-automation/dashboard/roi_timeline.html)
-- [Lead Score Distribution](https://keith-hot.github.io/ronin-recruitment-automation/dashboard/lead_score_distribution.html)
-- [Channel Effectiveness](https://keith-hot.github.io/ronin-recruitment-automation/dashboard/channel_effectiveness.html)
+- [Funnel Comparison](https://keith-hot.github.io/RONIN-recruitment-automation/dashboard/funnel_comparison.html)
+- [ROI Timeline](https://keith-hot.github.io/RONIN-recruitment-automation/dashboard/roi_timeline.html)
+- [Lead Score Distribution](https://keith-hot.github.io/RONIN-recruitment-automation/dashboard/lead_score_distribution.html)
+- [Channel Effectiveness](https://keith-hot.github.io/RONIN-recruitment-automation/dashboard/channel_effectiveness.html)
 
 Or view the project showcase page: `./index.html`
 
