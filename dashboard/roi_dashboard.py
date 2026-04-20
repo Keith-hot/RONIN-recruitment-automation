@@ -184,7 +184,7 @@ class DashboardGenerator:
         )
 
         out_path = os.path.join(self.output_dir, "funnel_comparison.html")
-        fig.write_html(out_path)
+        fig.write_html(out_path, include_plotlyjs="cdn")
         print(f"  Saved funnel comparison to {out_path}")
 
     # ------------------------------------------------------------------
@@ -264,7 +264,7 @@ class DashboardGenerator:
         )
 
         out_path = os.path.join(self.output_dir, "roi_timeline.html")
-        fig.write_html(out_path)
+        fig.write_html(out_path, include_plotlyjs="cdn")
         print(f"  Saved ROI timeline to {out_path}")
 
     # ------------------------------------------------------------------
@@ -332,7 +332,7 @@ class DashboardGenerator:
         )
 
         out_path = os.path.join(self.output_dir, "lead_score_distribution.html")
-        fig.write_html(out_path)
+        fig.write_html(out_path, include_plotlyjs="cdn")
         print(f"  Saved lead score distribution to {out_path}")
 
     # ------------------------------------------------------------------
@@ -422,7 +422,7 @@ class DashboardGenerator:
         )
 
         out_path = os.path.join(self.output_dir, "channel_effectiveness.html")
-        fig.write_html(out_path)
+        fig.write_html(out_path, include_plotlyjs="cdn")
         print(f"  Saved channel effectiveness to {out_path}")
 
 
