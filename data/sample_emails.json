@@ -1,0 +1,122 @@
+[
+  {
+    "profile_id": "Respondent_A_HardToReach",
+    "profile": {
+      "id": "Respondent_A_HardToReach",
+      "industry": "Healthcare",
+      "job_level": "C-Suite",
+      "preferred_contact": "Email",
+      "is_hard_to_reach": 1,
+      "past_participation_count": 0,
+      "research_topic_match_score": 88
+    },
+    "email": {
+      "subject": "[By Invitation Only] Healthcare Executive Research – 20 Min",
+      "body": "Dear Dr./Mr./Ms. [Name],\n\nWe are reaching out because your expertise aligns directly with the accelerating need for AI-driven diagnostics, interoperable health records, and patient-data privacy compliance. Our internal relevance model scores your profile 88/100 for this study.\n\nThis is a strictly by-invitation-only study limited to 50 global executives. In exchange for your time, you will receive a customized '2024 Healthcare Digital Maturity Whitepaper' plus priority access to industry benchmark data.\n\nWe value your time: a streamlined 20-minute executive briefing is all we need.\n\nPlease reply to this email or click the calendar link below to schedule a time that works best for you.\n\nBest regards,\nThe RONIN International Research Team\n\n---\nRelevant research context:\n1. [Healthcare] ## Key Discussion Topics 1. AI-assisted diagnosis and clinical decision support systems 2. Electronic health record (EHR) interoperability and data standards 3. Patient data privacy compliance (GDPR, HIPAA, local regulations) 4. Telemedicine infrastructure and remote patient moni...\n2. [Healthcare] ## Target Respondents - Hospital Chief Information Officers (CIOs) - Medical group technology directors - Heads of digital health initiatives  ## Interview Format 45-minute in-depth interview conducted via telephone or secure video conference. All responses are anonymized and agg...\n3. [Finance] ## Key Discussion Topics 1. Generative AI compliance frameworks and regulatory sandboxes 2. Model risk management (MRM) and algorithmic auditing 3. Legacy system integration and API-first architecture 4. Customer-facing AI (chatbots, robo-advisors, personalization engines) 5. Dat...\n",
+      "channel": "Email",
+      "industry": "Healthcare",
+      "job_level": "C-Suite",
+      "retrieved_context": [
+        {
+          "text": "## Key Discussion Topics\n1. AI-assisted diagnosis and clinical decision support systems\n2. Electronic health record (EHR) interoperability and data standards\n3. Patient data privacy compliance (GDPR, HIPAA, local regulations)\n4. Telemedicine infrastructure and remote patient monitoring\n5. Workforce digital literacy and change management",
+          "source": "healthcare_digital_transformation.md",
+          "industry": "Healthcare",
+          "score": 0.6596755385398865
+        },
+        {
+          "text": "## Target Respondents\n- Hospital Chief Information Officers (CIOs)\n- Medical group technology directors\n- Heads of digital health initiatives\n\n## Interview Format\n45-minute in-depth interview conducted via telephone or secure video conference. All responses are anonymized and aggregated.\n\n## Incentives\nParticipants receive a customized report titled \"2024 Healthcare Digital Maturity Whitepaper\" plus priority access to proprietary industry benchmark data.",
+          "source": "healthcare_digital_transformation.md",
+          "industry": "Healthcare",
+          "score": 0.43614670634269714
+        },
+        {
+          "text": "## Key Discussion Topics\n1. Generative AI compliance frameworks and regulatory sandboxes\n2. Model risk management (MRM) and algorithmic auditing\n3. Legacy system integration and API-first architecture\n4. Customer-facing AI (chatbots, robo-advisors, personalization engines)\n5. Data governance and ethical AI committees",
+          "source": "fintech_ai_adoption.md",
+          "industry": "Finance",
+          "score": 0.3769402801990509
+        }
+      ]
+    },
+    "relevance_score_percent": 52.2
+  },
+  {
+    "profile_id": "Respondent_B_ReturningCustomer",
+    "profile": {
+      "id": "Respondent_B_ReturningCustomer",
+      "industry": "Finance",
+      "job_level": "Director",
+      "preferred_contact": "LinkedIn",
+      "is_hard_to_reach": 0,
+      "past_participation_count": 2,
+      "research_topic_match_score": 75
+    },
+    "email": {
+      "subject": "[Exclusive Invitation] Finance Research Study",
+      "body": "Dear [Name],\n\nAs a valued past participant in our research, we wanted to reach out personally. Your profile scores 75/100 on topic relevance for our upcoming study.\n\nIn exchange for your time, you will receive exclusive early access to the 'Global Fintech AI Readiness Index' and an invitation to a closed-door roundtable in Singapore.\n\nThe time commitment is 30 minutes (plus an optional 20-minute follow-up).\n\nWould you be open to a quick conversation? Reply here and I'll send a calendar link.\n\nBest regards,\nThe RONIN International Research Team",
+      "channel": "LinkedIn",
+      "industry": "Finance",
+      "job_level": "Director",
+      "retrieved_context": [
+        {
+          "text": "## Key Discussion Topics\n1. Generative AI compliance frameworks and regulatory sandboxes\n2. Model risk management (MRM) and algorithmic auditing\n3. Legacy system integration and API-first architecture\n4. Customer-facing AI (chatbots, robo-advisors, personalization engines)\n5. Data governance and ethical AI committees",
+          "source": "fintech_ai_adoption.md",
+          "industry": "Finance",
+          "score": 0.6790129542350769
+        },
+        {
+          "text": "# AI Adoption in Global Banking Survey\n\n## Research Background\nThis survey investigates how multinational banks are deploying artificial intelligence across risk management, customer service, and investment research. We map the maturity curve from early experimentation to production-scale deployment.\n\n## Target Respondents\n- Chief Technology Officers (CTOs) of retail and investment banks\n- Chief Risk Officers (CROs)\n- Heads of digital transformation and innovation",
+          "source": "fintech_ai_adoption.md",
+          "industry": "Finance",
+          "score": 0.4973900020122528
+        },
+        {
+          "text": "# C-Suite Cybersecurity Resilience Study\n\n## Research Background\nThis study evaluates how large enterprises defend against ransomware, supply-chain attacks, and insider threats. We measure preparedness across people, process, and technology dimensions.\n\n## Target Respondents\n- Chief Information Security Officers (CISOs)\n- IT directors with security oversight\n- Vice Presidents of risk management",
+          "source": "enterprise_cybersecurity.md",
+          "industry": "Technology",
+          "score": 0.3461436629295349
+        }
+      ]
+    },
+    "relevance_score_percent": 44.1
+  },
+  {
+    "profile_id": "Respondent_C_NewLead",
+    "profile": {
+      "id": "Respondent_C_NewLead",
+      "industry": "Technology",
+      "job_level": "Manager",
+      "preferred_contact": "Email",
+      "is_hard_to_reach": 0,
+      "past_participation_count": 0,
+      "research_topic_match_score": 62
+    },
+    "email": {
+      "subject": "[Exclusive Invitation] Technology Research Study",
+      "body": "Hi [Name],\n\nWe are reaching out because your expertise aligns directly with the growing threat of ransomware, the complexity of zero-trust rollouts, and securing cloud-native supply chains. Our internal relevance model scores your profile 62/100 for this study.\n\nIn exchange for your time, you will receive a complimentary third-party security audit (valued at $5,000) plus a customized security maturity assessment report.\n\nThe time commitment is 60 minutes.\n\nPlease reply to this email or click the calendar link below to schedule a time that works best for you.\n\nBest regards,\nThe RONIN International Research Team\n\n---\nRelevant research context:\n1. [Technology] ## Why It Matters A single successful ransomware attack can erase millions in shareholder value and destroy customer trust. Proactive resilience is the only sustainable defense....\n2. [Technology] # C-Suite Cybersecurity Resilience Study  ## Research Background This study evaluates how large enterprises defend against ransomware, supply-chain attacks, and insider threats. We measure preparedness across people, process, and technology dimensions.  ## Target Respondents - Ch...\n3. [Technology] ## Key Discussion Topics 1. Zero-trust architecture implementation and micro-segmentation 2. Cloud security posture management (CSPM) and multi-cloud governance 3. Third-party and vendor risk management (TPRM) 4. Incident response planning, tabletop exercises, and cyber insurance...\n",
+      "channel": "Email",
+      "industry": "Technology",
+      "job_level": "Manager",
+      "retrieved_context": [
+        {
+          "text": "## Why It Matters\nA single successful ransomware attack can erase millions in shareholder value and destroy customer trust. Proactive resilience is the only sustainable defense.",
+          "source": "enterprise_cybersecurity.md",
+          "industry": "Technology",
+          "score": 0.5890412330627441
+        },
+        {
+          "text": "# C-Suite Cybersecurity Resilience Study\n\n## Research Background\nThis study evaluates how large enterprises defend against ransomware, supply-chain attacks, and insider threats. We measure preparedness across people, process, and technology dimensions.\n\n## Target Respondents\n- Chief Information Security Officers (CISOs)\n- IT directors with security oversight\n- Vice Presidents of risk management",
+          "source": "enterprise_cybersecurity.md",
+          "industry": "Technology",
+          "score": 0.5850687026977539
+        },
+        {
+          "text": "## Key Discussion Topics\n1. Zero-trust architecture implementation and micro-segmentation\n2. Cloud security posture management (CSPM) and multi-cloud governance\n3. Third-party and vendor risk management (TPRM)\n4. Incident response planning, tabletop exercises, and cyber insurance\n5. Board-level cybersecurity literacy and budget allocation",
+          "source": "enterprise_cybersecurity.md",
+          "industry": "Technology",
+          "score": 0.5703535676002502
+        }
+      ]
+    },
+    "relevance_score_percent": 63.3
+  }
+]

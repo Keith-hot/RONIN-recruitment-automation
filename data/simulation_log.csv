@@ -1,0 +1,14 @@
+day,respondent_id,state,action_triggered,notes
+0,R001,new,added_to_system,priority_score=0.089
+0,R251,new,added_to_system,priority_score=0.045
+0,R501,new,added_to_system,priority_score=0.112
+0,R001,initial_contact,sent_initial_email,Send at 14:00 local | Subject: [Exclusive Invitation] Healthcare Research Study
+0,R251,initial_contact,sent_initial_email,Send at 10:00 local | Subject: [By Invitation Only] Healthcare Executive Research – 20 Min
+0,R501,initial_contact,sent_initial_email,Send at 14:00 local | Subject: [Exclusive Invitation] Technology Research Study
+1,R001,engaged,detected_engagement,Email opened within 24h
+1,R251,engaged,detected_engagement,Email opened within 24h
+2,R001,responded,human_handoff,ALERT: Sales team notified – stop all automation
+3,R001,scheduled,interview_scheduled,Calendar invite sent + 24h reminder queued
+4,R251,nurture,escalation_attempt,LinkedIn connection request sent
+7,R501,nurture,moved_to_nurture_pool,Sent nurture whitepaper | Subject: [Exclusive Invitation] Technology Research Study
+10,R251,initial_contact,reactivation,New project match (external trigger) | Subject: [By Invitation Only] Healthcare Executive Research – 20 Min

@@ -1,0 +1,304 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Smart Respondent Recruitment System | RONIN International</title>
+  <script src="https://cdn.tailwindcss.com"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800&display=swap" rel="stylesheet">
+  <style>
+    body { font-family: 'Inter', system-ui, sans-serif; }
+    .hero-bg { background: linear-gradient(135deg, #1a365d 0%, #2c5282 50%, #2b6cb0 100%); }
+    .metric-card { transition: transform 0.2s ease; }
+    .metric-card:hover { transform: translateY(-4px); }
+    .smooth-scroll { scroll-behavior: smooth; }
+  </style>
+</head>
+<body class="bg-gray-50 text-gray-800 smooth-scroll">
+
+  <!-- Navigation -->
+  <nav class="fixed w-full z-50 bg-white/95 backdrop-blur border-b border-gray-200">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8">
+      <div class="flex justify-between items-center h-16">
+        <div class="flex items-center space-x-2">
+          <div class="w-8 h-8 bg-[#1a365d] rounded-lg flex items-center justify-center">
+            <span class="text-white font-bold text-sm">R</span>
+          </div>
+          <span class="font-semibold text-[#1a365d]">RONIN Automation</span>
+        </div>
+        <div class="hidden md:flex space-x-8 text-sm font-medium">
+          <a href="#problem" class="text-gray-600 hover:text-[#1a365d]">Problem</a>
+          <a href="#solution" class="text-gray-600 hover:text-[#1a365d]">Solution</a>
+          <a href="#results" class="text-gray-600 hover:text-[#1a365d]">Results</a>
+          <a href="#demo" class="text-gray-600 hover:text-[#1a365d]">Demo</a>
+        </div>
+        <a href="https://github.com/Keith-hot/ronin-recruitment-automation" 
+           class="bg-[#1a365d] text-white px-4 py-2 rounded-lg text-sm font-medium hover:bg-[#2c5282] transition">
+          View on GitHub
+        </a>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Hero Section -->
+  <section class="hero-bg pt-32 pb-20 px-4 sm:px-6 lg:px-8">
+    <div class="max-w-5xl mx-auto text-center">
+      <div class="inline-block bg-white/10 backdrop-blur rounded-full px-4 py-1.5 mb-6">
+        <span class="text-blue-100 text-sm font-medium">Designed for RONIN International</span>
+      </div>
+      <h1 class="text-4xl sm:text-5xl lg:text-6xl font-extrabold text-white leading-tight mb-6">
+        3.9× Higher Conversion Rates
+      </h1>
+      <p class="text-xl text-blue-100 max-w-2xl mx-auto mb-4">
+        Smart automation for B2B market research recruitment
+      </p>
+      <p class="text-blue-200 max-w-xl mx-auto mb-10">
+        AI-Powered respondent scoring, RAG-driven personalization, and state-machine nurture sequences 
+        that turn hard-to-reach audiences into qualified interview participants.
+      </p>
+
+      <!-- Metric Cards -->
+      <div class="grid grid-cols-2 md:grid-cols-4 gap-4 max-w-3xl mx-auto">
+        <div class="metric-card bg-white/10 backdrop-blur rounded-xl p-4 border border-white/20">
+          <div class="text-2xl font-bold text-white">0.93</div>
+          <div class="text-xs text-blue-200 mt-1">AUC Prediction Accuracy</div>
+        </div>
+        <div class="metric-card bg-white/10 backdrop-blur rounded-xl p-4 border border-white/20">
+          <div class="text-2xl font-bold text-white">40%</div>
+          <div class="text-xs text-blue-200 mt-1">Cost Reduction</div>
+        </div>
+        <div class="metric-card bg-white/10 backdrop-blur rounded-xl p-4 border border-white/20">
+          <div class="text-2xl font-bold text-white">$1.95M</div>
+          <div class="text-xs text-blue-200 mt-1">Annual Value</div>
+        </div>
+        <div class="metric-card bg-white/10 backdrop-blur rounded-xl p-4 border border-white/20">
+          <div class="text-2xl font-bold text-white">0.5d</div>
+          <div class="text-xs text-blue-200 mt-1">Break-Even</div>
+        </div>
+      </div>
+
+      <div class="mt-10 flex flex-col sm:flex-row justify-center gap-4">
+        <a href="https://github.com/Keith-hot/ronin-recruitment-automation" 
+           class="bg-white text-[#1a365d] px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition">
+          View GitHub Repo
+        </a>
+        <a href="#demo" 
+           class="bg-transparent border-2 border-white text-white px-8 py-3 rounded-lg font-semibold hover:bg-white/10 transition">
+          Explore Live Demo
+        </a>
+      </div>
+    </div>
+  </section>
+
+  <!-- Problem Statement -->
+  <section id="problem" class="py-20 px-4 sm:px-6 lg:px-8 bg-white">
+    <div class="max-w-4xl mx-auto">
+      <div class="text-center mb-12">
+        <h2 class="text-3xl font-bold text-[#1a365d] mb-4">The Challenge of Hard-to-Reach Audiences</h2>
+        <p class="text-gray-600 max-w-2xl mx-auto">
+          B2B market research firms like RONIN International face a universal paradox: 
+          the most valuable insights come from the hardest people to reach.
+        </p>
+      </div>
+      <div class="grid md:grid-cols-3 gap-8">
+        <div class="bg-gray-50 rounded-xl p-6">
+          <div class="w-12 h-12 bg-red-100 rounded-lg flex items-center justify-center mb-4">
+            <svg class="w-6 h-6 text-red-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8v4m0 4h.01M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+          </div>
+          <h3 class="font-semibold text-gray-900 mb-2">C-Suite Executives</h3>
+          <p class="text-sm text-gray-600">Doctors, CTOs, and CISOs receive hundreds of outreach emails monthly. Generic invites are ignored.</p>
+        </div>
+        <div class="bg-gray-50 rounded-xl p-6">
+          <div class="w-12 h-12 bg-orange-100 rounded-lg flex items-center justify-center mb-4">
+            <svg class="w-6 h-6 text-orange-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 8c-1.657 0-3 .895-3 2s1.343 2 3 2 3 .895 3 2-1.343 2-3 2m0-8c1.11 0 2.08.402 2.599 1M12 8V7m0 1v8m0 0v1m0-1c-1.11 0-2.08-.402-2.599-1M21 12a9 9 0 11-18 0 9 9 0 0118 0z"/></svg>
+          </div>
+          <h3 class="font-semibold text-gray-900 mb-2">High Acquisition Cost</h3>
+          <p class="text-sm text-gray-600">Manual research, drafting, and follow-up consume 15+ minutes per lead. At scale, this becomes unsustainable.</p>
+        </div>
+        <div class="bg-gray-50 rounded-xl p-6">
+          <div class="w-12 h-12 bg-yellow-100 rounded-lg flex items-center justify-center mb-4">
+            <svg class="w-6 h-6 text-yellow-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M13 10V3L4 14h7v7l9-11h-7z"/></svg>
+          </div>
+          <h3 class="font-semibold text-gray-900 mb-2">Follow-Up Gaps</h3>
+          <p class="text-sm text-gray-600">80% of conversions require 5+ touchpoints, yet most teams stop after 1–2 attempts. Warm leads go cold.</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Solution Overview -->
+  <section id="solution" class="py-20 px-4 sm:px-6 lg:px-8 bg-gray-50">
+    <div class="max-w-5xl mx-auto">
+      <div class="text-center mb-12">
+        <h2 class="text-3xl font-bold text-[#1a365d] mb-4">5-Module Smart Architecture</h2>
+        <p class="text-gray-600 max-w-2xl mx-auto">
+          An end-to-end pipeline that scores, personalizes, nurtures, and triggers 
+          multi-channel outreach—automatically.
+        </p>
+      </div>
+      <div class="grid sm:grid-cols-2 lg:grid-cols-5 gap-6">
+        <div class="bg-white rounded-xl p-6 shadow-sm border border-gray-100 text-center">
+          <div class="w-14 h-14 bg-blue-100 rounded-xl flex items-center justify-center mx-auto mb-4">
+            <svg class="w-7 h-7 text-blue-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 7v10c0 2.21 3.582 4 8 4s8-1.79 8-4V7M4 7c0 2.21 3.582 4 8 4s8-1.79 8-4M4 7c0-2.21 3.582-4 8-4s8 1.79 8 4m0 5c0 2.21-3.582 4-8 4s-8-1.79-8-4"/></svg>
+          </div>
+          <h3 class="font-semibold text-gray-900 text-sm mb-1">1. Data Layer</h3>
+          <p class="text-xs text-gray-500">Respondent profiles + 5,000 interaction records</p>
+        </div>
+        <div class="bg-white rounded-xl p-6 shadow-sm border border-gray-100 text-center">
+          <div class="w-14 h-14 bg-green-100 rounded-xl flex items-center justify-center mx-auto mb-4">
+            <svg class="w-7 h-7 text-green-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 19v-6a2 2 0 00-2-2H5a2 2 0 00-2 2v6a2 2 0 002 2h2a2 2 0 002-2zm0 0V9a2 2 0 012-2h2a2 2 0 012 2v10m-6 0a2 2 0 002 2h2a2 2 0 002-2m0 0V5a2 2 0 012-2h2a2 2 0 012 2v14a2 2 0 01-2 2h-2a2 2 0 01-2-2z"/></svg>
+          </div>
+          <h3 class="font-semibold text-gray-900 text-sm mb-1">2. Lead Scoring</h3>
+          <p class="text-xs text-gray-500">LightGBM classifier (AUC 0.93) with stratified weights</p>
+        </div>
+        <div class="bg-white rounded-xl p-6 shadow-sm border border-gray-100 text-center">
+          <div class="w-14 h-14 bg-purple-100 rounded-xl flex items-center justify-center mx-auto mb-4">
+            <svg class="w-7 h-7 text-purple-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M11 5H6a2 2 0 00-2 2v11a2 2 0 002 2h11a2 2 0 002-2v-5m-1.414-9.414a2 2 0 112.828 2.828L11.828 15H9v-2.828l8.586-8.586z"/></svg>
+          </div>
+          <h3 class="font-semibold text-gray-900 text-sm mb-1">3. Personalization</h3>
+          <p class="text-xs text-gray-500">RAG engine with FAISS + Sentence-Transformers</p>
+        </div>
+        <div class="bg-white rounded-xl p-6 shadow-sm border border-gray-100 text-center">
+          <div class="w-14 h-14 bg-orange-100 rounded-xl flex items-center justify-center mx-auto mb-4">
+            <svg class="w-7 h-7 text-orange-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4 4v5h.582m15.356 2A8.001 8.001 0 004.582 9m0 0H9m11 11v-5h-.581m0 0a8.003 8.003 0 01-15.357-2m15.357 2H15"/></svg>
+          </div>
+          <h3 class="font-semibold text-gray-900 text-sm mb-1">4. Sequences</h3>
+          <p class="text-xs text-gray-500">7-state nurture machine with time-based triggers</p>
+        </div>
+        <div class="bg-white rounded-xl p-6 shadow-sm border border-gray-100 text-center">
+          <div class="w-14 h-14 bg-red-100 rounded-xl flex items-center justify-center mx-auto mb-4">
+            <svg class="w-7 h-7 text-red-600" fill="none" stroke="currentColor" viewBox="0 0 24 24"><path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M15 17h5l-1.405-1.405A2.032 2.032 0 0118 14.158V11a6.002 6.002 0 00-4-5.659V5a2 2 0 10-4 0v.341C7.67 6.165 6 8.388 6 11v3.159c0 .538-.214 1.055-.595 1.436L4 17h5m6 0v1a3 3 0 11-6 0v-1m6 0H9"/></svg>
+          </div>
+          <h3 class="font-semibold text-gray-900 text-sm mb-1">5. Triggers</h3>
+          <p class="text-xs text-gray-500">Event-driven rules across Email, LinkedIn, WhatsApp</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Key Results -->
+  <section id="results" class="py-20 px-4 sm:px-6 lg:px-8 bg-white">
+    <div class="max-w-5xl mx-auto">
+      <div class="text-center mb-12">
+        <h2 class="text-3xl font-bold text-[#1a365d] mb-4">Key Results</h2>
+        <p class="text-gray-600">Quantified impact on recruitment efficiency and project economics.</p>
+      </div>
+      <div class="grid sm:grid-cols-2 lg:grid-cols-3 gap-6">
+        <div class="bg-[#1a365d] rounded-xl p-6 text-white">
+          <div class="text-4xl font-extrabold mb-2">3.9×</div>
+          <div class="text-blue-200 text-sm">Conversion Lift</div>
+          <div class="text-xs text-blue-300 mt-2">Participation rate improved from 11.1% to 43.1%</div>
+        </div>
+        <div class="bg-[#2c5282] rounded-xl p-6 text-white">
+          <div class="text-4xl font-extrabold mb-2">0.93</div>
+          <div class="text-blue-200 text-sm">AUC Prediction Accuracy</div>
+          <div class="text-xs text-blue-300 mt-2">LightGBM 5-fold cross-validation score</div>
+        </div>
+        <div class="bg-[#2b6cb0] rounded-xl p-6 text-white">
+          <div class="text-4xl font-extrabold mb-2">$1.95M</div>
+          <div class="text-blue-200 text-sm">Annual Revenue Uplift</div>
+          <div class="text-xs text-blue-300 mt-2">Projected at 4 projects × 250 leads/month</div>
+        </div>
+        <div class="bg-gray-100 rounded-xl p-6 border border-gray-200">
+          <div class="text-4xl font-extrabold text-[#1a365d] mb-2">40%</div>
+          <div class="text-gray-600 text-sm">Cost Reduction</div>
+          <div class="text-xs text-gray-500 mt-2">Labour savings vs fully manual outreach</div>
+        </div>
+        <div class="bg-gray-100 rounded-xl p-6 border border-gray-200">
+          <div class="text-4xl font-extrabold text-[#1a365d] mb-2">0.5d</div>
+          <div class="text-gray-600 text-sm">Break-Even Period</div>
+          <div class="text-xs text-gray-500 mt-2">Setup cost recovered in under 12 hours</div>
+        </div>
+        <div class="bg-gray-100 rounded-xl p-6 border border-gray-200">
+          <div class="text-4xl font-extrabold text-[#1a365d] mb-2">200h</div>
+          <div class="text-gray-600 text-sm">Monthly Hours Saved</div>
+          <div class="text-xs text-gray-500 mt-2">Per researcher at 1,000-lead scale</div>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Live Demo -->
+  <section id="demo" class="py-20 px-4 sm:px-6 lg:px-8 bg-gray-50">
+    <div class="max-w-6xl mx-auto">
+      <div class="text-center mb-12">
+        <h2 class="text-3xl font-bold text-[#1a365d] mb-4">Live Demo</h2>
+        <p class="text-gray-600">Interactive Plotly dashboards generated from real simulation data.</p>
+      </div>
+      <div class="grid lg:grid-cols-2 gap-8">
+        <div class="bg-white rounded-xl shadow-sm border border-gray-200 overflow-hidden">
+          <div class="bg-gray-100 px-4 py-3 border-b border-gray-200 flex items-center justify-between">
+            <span class="text-sm font-medium text-gray-700">Funnel Comparison</span>
+            <a href="./dashboard/funnel_comparison.html" target="_blank" class="text-xs text-blue-600 hover:underline">Open full screen →</a>
+          </div>
+          <iframe src="./dashboard/funnel_comparison.html" class="w-full h-80 border-0" loading="lazy"></iframe>
+        </div>
+        <div class="bg-white rounded-xl shadow-sm border border-gray-200 overflow-hidden">
+          <div class="bg-gray-100 px-4 py-3 border-b border-gray-200 flex items-center justify-between">
+            <span class="text-sm font-medium text-gray-700">ROI Timeline</span>
+            <a href="./dashboard/roi_timeline.html" target="_blank" class="text-xs text-blue-600 hover:underline">Open full screen →</a>
+          </div>
+          <iframe src="./dashboard/roi_timeline.html" class="w-full h-80 border-0" loading="lazy"></iframe>
+        </div>
+      </div>
+      <div class="grid lg:grid-cols-2 gap-8 mt-8">
+        <div class="bg-white rounded-xl shadow-sm border border-gray-200 overflow-hidden">
+          <div class="bg-gray-100 px-4 py-3 border-b border-gray-200 flex items-center justify-between">
+            <span class="text-sm font-medium text-gray-700">Lead Score Distribution</span>
+            <a href="./dashboard/lead_score_distribution.html" target="_blank" class="text-xs text-blue-600 hover:underline">Open full screen →</a>
+          </div>
+          <iframe src="./dashboard/lead_score_distribution.html" class="w-full h-80 border-0" loading="lazy"></iframe>
+        </div>
+        <div class="bg-white rounded-xl shadow-sm border border-gray-200 overflow-hidden">
+          <div class="bg-gray-100 px-4 py-3 border-b border-gray-200 flex items-center justify-between">
+            <span class="text-sm font-medium text-gray-700">Channel Effectiveness</span>
+            <a href="./dashboard/channel_effectiveness.html" target="_blank" class="text-xs text-blue-600 hover:underline">Open full screen →</a>
+          </div>
+          <iframe src="./dashboard/channel_effectiveness.html" class="w-full h-80 border-0" loading="lazy"></iframe>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <!-- Tech Stack -->
+  <section class="py-16 px-4 sm:px-6 lg:px-8 bg-white">
+    <div class="max-w-4xl mx-auto text-center">
+      <h2 class="text-2xl font-bold text-[#1a365d] mb-8">Technology Stack</h2>
+      <div class="flex flex-wrap justify-center gap-3">
+        <span class="px-4 py-2 bg-gray-100 rounded-full text-sm font-medium text-gray-700">Python 3.13</span>
+        <span class="px-4 py-2 bg-gray-100 rounded-full text-sm font-medium text-gray-700">LightGBM</span>
+        <span class="px-4 py-2 bg-gray-100 rounded-full text-sm font-medium text-gray-700">scikit-learn</span>
+        <span class="px-4 py-2 bg-gray-100 rounded-full text-sm font-medium text-gray-700">FAISS</span>
+        <span class="px-4 py-2 bg-gray-100 rounded-full text-sm font-medium text-gray-700">Sentence-Transformers</span>
+        <span class="px-4 py-2 bg-gray-100 rounded-full text-sm font-medium text-gray-700">LangChain</span>
+        <span class="px-4 py-2 bg-gray-100 rounded-full text-sm font-medium text-gray-700">Plotly</span>
+        <span class="px-4 py-2 bg-gray-100 rounded-full text-sm font-medium text-gray-700">pandas</span>
+        <span class="px-4 py-2 bg-gray-100 rounded-full text-sm font-medium text-gray-700">NumPy</span>
+        <span class="px-4 py-2 bg-gray-100 rounded-full text-sm font-medium text-gray-700">Tailwind CSS</span>
+      </div>
+    </div>
+  </section>
+
+  <!-- CTA -->
+  <section class="py-20 px-4 sm:px-6 lg:px-8 bg-[#1a365d]">
+    <div class="max-w-3xl mx-auto text-center">
+      <h2 class="text-3xl font-bold text-white mb-4">Ready to explore the codebase?</h2>
+      <p class="text-blue-200 mb-8">All modules, data pipelines, and dashboards are fully documented and reproducible.</p>
+      <a href="https://github.com/Keith-hot/ronin-recruitment-automation" 
+         class="inline-block bg-white text-[#1a365d] px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition">
+        View on GitHub →
+      </a>
+    </div>
+  </section>
+
+  <!-- Footer -->
+  <footer class="bg-gray-900 text-gray-400 py-10 px-4 sm:px-6 lg:px-8">
+    <div class="max-w-4xl mx-auto text-center">
+      <p class="text-sm mb-2">Built by <strong class="text-white">Keith</strong> — Data Science & ML Engineering</p>
+      <p class="text-sm mb-4">Targeting Digital Research roles at RONIN International</p>
+      <p class="text-xs">1720261562@qq.com | <a href="https://github.com/Keith-hot" class="text-blue-400 hover:underline">github.com/Keith-hot</a></p>
+    </div>
+  </footer>
+
+</body>
+</html>

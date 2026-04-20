@@ -1,0 +1,44 @@
+{
+  "manual_monthly_cost": 6250.0,
+  "automation_monthly_cost": 3750.0,
+  "savings_percent": 40.0,
+  "break_even_days": 0.5,
+  "annual_labour_savings_usd": 30000.0,
+  "annual_revenue_uplift_usd": 1920000.0,
+  "annual_total_benefit_usd": 1950000.0,
+  "roi_percentage": 78000.0,
+  "efficiency_gain_percent": 40.0,
+  "conversion_lift_multiplier": "3.9x",
+  "manual_funnel_counts": {
+    "Contact": 1000,
+    "Open": 610,
+    "Reply": 514,
+    "Schedule": 159,
+    "Participate": 111
+  },
+  "ai_funnel_counts": {
+    "Contact": 1000,
+    "Open": 793,
+    "Reply": 719,
+    "Schedule": 508,
+    "Participate": 431
+  },
+  "channel_metrics": {
+    "Email": {
+      "open_rate": 56.6,
+      "reply_rate": 51.9,
+      "cost_per_response": 0.1
+    },
+    "LinkedIn": {
+      "open_rate": 67.5,
+      "reply_rate": 49.1,
+      "cost_per_response": 0.31
+    },
+    "WhatsApp": {
+      "open_rate": 63.1,
+      "reply_rate": 53.2,
+      "cost_per_response": 0.19
+    }
+  },
+  "generated_at": "2026-04-20T12:19:58.271427"
+}

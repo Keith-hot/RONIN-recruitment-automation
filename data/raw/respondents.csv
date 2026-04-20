@@ -1,0 +1,1001 @@
+respondent_id,industry,job_level,region,company_size,past_participation_count,preferred_contact,research_topic_match_score,is_hard_to_reach
+R001,Healthcare,Manager,EMEA,Mid-market,0,Phone,73,0
+R002,Manufacturing,C-Suite,APAC,Enterprise,0,Phone,40,0
+R003,Retail,Specialist,North America,Mid-market,0,LinkedIn,46,0
+R004,Technology,Manager,LATAM,Enterprise,0,Email,46,0
+R005,Finance,Director,EMEA,Mid-market,2,Phone,76,0
+R006,Finance,Manager,North America,SMB,0,Email,74,0
+R007,Finance,Manager,North America,Mid-market,0,Email,67,0
+R008,Manufacturing,Specialist,APAC,Enterprise,0,Phone,76,0
+R009,Technology,Manager,EMEA,Enterprise,0,Email,47,0
+R010,Retail,Specialist,APAC,Mid-market,0,Email,65,0
+R011,Finance,Manager,EMEA,Enterprise,1,Email,58,0
+R012,Manufacturing,Director,LATAM,Enterprise,0,Phone,73,0
+R013,Retail,C-Suite,LATAM,SMB,2,LinkedIn,58,0
+R014,Finance,Specialist,LATAM,Mid-market,0,LinkedIn,54,0
+R015,Finance,Director,APAC,Enterprise,1,Email,68,0
+R016,Finance,Manager,EMEA,SMB,0,LinkedIn,73,0
+R017,Healthcare,C-Suite,EMEA,Enterprise,0,LinkedIn,50,1
+R018,Technology,Specialist,North America,SMB,0,Email,59,0
+R019,Healthcare,Manager,EMEA,Mid-market,1,Email,44,0
+R020,Healthcare,Manager,EMEA,SMB,0,Email,23,0
+R021,Technology,Director,EMEA,Mid-market,0,Phone,63,0
+R022,Finance,Director,EMEA,SMB,3,LinkedIn,69,0
+R023,Healthcare,Director,North America,SMB,2,Phone,64,0
+R024,Healthcare,Director,LATAM,Enterprise,0,Email,31,0
+R025,Technology,Director,APAC,SMB,1,LinkedIn,55,0
+R026,Retail,Manager,North America,Mid-market,0,LinkedIn,27,0
+R027,Finance,C-Suite,North America,Mid-market,0,LinkedIn,81,0
+R028,Technology,Manager,APAC,Mid-market,0,Phone,44,0
+R029,Technology,Specialist,APAC,Mid-market,3,Email,79,0
+R030,Finance,Director,North America,Enterprise,3,Email,74,0
+R031,Technology,Director,APAC,Mid-market,0,LinkedIn,46,0
+R032,Finance,Manager,APAC,Mid-market,0,LinkedIn,43,0
+R033,Finance,Director,EMEA,SMB,0,LinkedIn,65,0
+R034,Manufacturing,C-Suite,North America,SMB,4,Email,47,0
+R035,Manufacturing,Director,EMEA,Mid-market,3,LinkedIn,62,0
+R036,Retail,Manager,LATAM,Mid-market,0,Email,53,0
+R037,Healthcare,C-Suite,North America,Enterprise,2,Email,33,1
+R038,Finance,Manager,EMEA,Enterprise,1,LinkedIn,27,0
+R039,Technology,Specialist,LATAM,Enterprise,0,LinkedIn,63,0
+R040,Healthcare,Manager,North America,Mid-market,0,Email,52,0
+R041,Finance,Director,North America,Enterprise,0,Email,52,0
+R042,Technology,Manager,EMEA,SMB,0,Email,70,0
+R043,Finance,Director,EMEA,Mid-market,0,Email,78,0
+R044,Manufacturing,Specialist,LATAM,Mid-market,0,LinkedIn,56,0
+R045,Healthcare,C-Suite,North America,Mid-market,4,Phone,55,1
+R046,Technology,C-Suite,EMEA,Enterprise,0,Email,68,0
+R047,Healthcare,Specialist,LATAM,Mid-market,0,LinkedIn,40,0
+R048,Technology,Specialist,LATAM,Mid-market,0,Phone,63,0
+R049,Technology,C-Suite,North America,Mid-market,0,Phone,68,0
+R050,Finance,Manager,LATAM,Mid-market,0,Email,70,0
+R051,Manufacturing,Director,North America,SMB,0,Phone,31,0
+R052,Retail,Specialist,LATAM,SMB,0,Email,49,0
+R053,Manufacturing,Manager,APAC,Mid-market,0,Email,47,0
+R054,Manufacturing,Manager,LATAM,Mid-market,0,Email,61,0
+R055,Technology,C-Suite,EMEA,Mid-market,0,Email,67,0
+R056,Manufacturing,Manager,APAC,Enterprise,2,Email,82,0
+R057,Finance,Specialist,North America,Mid-market,0,Email,53,0
+R058,Finance,C-Suite,APAC,Enterprise,0,Email,53,0
+R059,Finance,Director,APAC,Mid-market,1,Phone,77,0
+R060,Healthcare,Director,EMEA,Mid-market,0,Phone,64,0
+R061,Healthcare,C-Suite,EMEA,Enterprise,0,Email,79,1
+R062,Healthcare,C-Suite,EMEA,SMB,1,Phone,64,1
+R063,Retail,Manager,EMEA,SMB,0,Phone,43,0
+R064,Healthcare,Manager,LATAM,SMB,0,LinkedIn,40,0
+R065,Healthcare,Director,LATAM,Mid-market,2,Email,37,0
+R066,Technology,Manager,EMEA,SMB,2,LinkedIn,70,0
+R067,Finance,C-Suite,LATAM,Enterprise,4,Phone,78,0
+R068,Retail,Manager,North America,SMB,0,LinkedIn,88,0
+R069,Finance,Specialist,EMEA,Enterprise,0,Email,73,0
+R070,Manufacturing,Specialist,APAC,SMB,0,LinkedIn,77,0
+R071,Retail,C-Suite,North America,Enterprise,0,LinkedIn,51,0
+R072,Finance,C-Suite,EMEA,SMB,0,LinkedIn,43,0
+R073,Finance,C-Suite,North America,SMB,0,Email,73,0
+R074,Retail,Manager,EMEA,Enterprise,3,Email,66,0
+R075,Retail,Manager,LATAM,Mid-market,0,Phone,62,0
+R076,Retail,Director,LATAM,SMB,0,Phone,66,0
+R077,Retail,Specialist,North America,Mid-market,0,Email,65,0
+R078,Finance,Specialist,North America,SMB,0,Phone,79,0
+R079,Healthcare,Specialist,APAC,Mid-market,0,Email,79,0
+R080,Finance,Manager,EMEA,Mid-market,0,LinkedIn,68,0
+R081,Manufacturing,Manager,APAC,Enterprise,0,LinkedIn,73,0
+R082,Technology,C-Suite,LATAM,Enterprise,0,Phone,68,0
+R083,Healthcare,Specialist,EMEA,SMB,2,Phone,53,0
+R084,Finance,Manager,North America,Mid-market,2,Email,71,0
+R085,Healthcare,Manager,North America,Mid-market,0,Phone,39,0
+R086,Healthcare,Director,North America,Mid-market,0,Email,76,0
+R087,Retail,Manager,North America,Mid-market,1,LinkedIn,42,0
+R088,Technology,Manager,EMEA,SMB,2,LinkedIn,64,0
+R089,Manufacturing,Specialist,LATAM,SMB,0,LinkedIn,47,0
+R090,Technology,Manager,LATAM,Mid-market,2,Email,68,0
+R091,Finance,Director,EMEA,SMB,0,Phone,59,0
+R092,Retail,Specialist,LATAM,SMB,1,Email,36,0
+R093,Retail,Specialist,EMEA,Mid-market,4,Email,66,0
+R094,Technology,Director,EMEA,SMB,0,LinkedIn,51,0
+R095,Retail,Manager,EMEA,Enterprise,2,Email,73,0
+R096,Technology,Manager,LATAM,Enterprise,0,Phone,60,0
+R097,Technology,C-Suite,EMEA,SMB,5,Email,66,0
+R098,Healthcare,Specialist,EMEA,Mid-market,0,Email,46,0
+R099,Finance,Director,North America,SMB,2,Phone,51,0
+R100,Finance,Specialist,APAC,SMB,0,LinkedIn,53,0
+R101,Finance,Manager,LATAM,Enterprise,0,Email,73,0
+R102,Technology,Director,APAC,SMB,0,LinkedIn,85,0
+R103,Healthcare,Specialist,APAC,Mid-market,3,LinkedIn,48,0
+R104,Technology,C-Suite,North America,Mid-market,1,LinkedIn,76,0
+R105,Manufacturing,Manager,LATAM,Mid-market,2,Email,27,0
+R106,Finance,C-Suite,APAC,SMB,3,Phone,42,0
+R107,Healthcare,Manager,APAC,Enterprise,0,Phone,46,0
+R108,Retail,Manager,APAC,Mid-market,0,LinkedIn,40,0
+R109,Finance,Manager,LATAM,Mid-market,0,Email,36,0
+R110,Finance,Director,LATAM,SMB,0,Phone,66,0
+R111,Healthcare,Specialist,APAC,Mid-market,0,LinkedIn,57,0
+R112,Finance,Specialist,LATAM,Enterprise,0,LinkedIn,66,0
+R113,Manufacturing,Director,LATAM,Enterprise,0,Email,70,0
+R114,Retail,Manager,EMEA,Mid-market,0,Phone,64,0
+R115,Technology,Manager,EMEA,SMB,0,LinkedIn,70,0
+R116,Manufacturing,Specialist,EMEA,Enterprise,0,Email,59,0
+R117,Retail,Manager,APAC,Enterprise,4,Email,42,0
+R118,Finance,Director,EMEA,SMB,2,Phone,76,0
+R119,Manufacturing,Specialist,EMEA,Enterprise,4,Email,51,0
+R120,Technology,Specialist,EMEA,SMB,0,Phone,46,0
+R121,Retail,Manager,North America,Mid-market,0,LinkedIn,57,0
+R122,Manufacturing,C-Suite,EMEA,SMB,2,LinkedIn,46,0
+R123,Healthcare,Manager,EMEA,Enterprise,0,Email,54,0
+R124,Finance,Director,North America,Enterprise,0,Email,65,0
+R125,Finance,Specialist,LATAM,SMB,0,Phone,65,0
+R126,Healthcare,Manager,LATAM,SMB,0,Email,47,0
+R127,Retail,Specialist,APAC,SMB,0,LinkedIn,53,0
+R128,Manufacturing,Manager,APAC,Enterprise,0,Email,76,0
+R129,Finance,Manager,EMEA,SMB,0,Email,67,0
+R130,Technology,Manager,North America,SMB,0,Email,91,0
+R131,Healthcare,Director,North America,Mid-market,0,LinkedIn,78,0
+R132,Finance,Manager,APAC,SMB,2,Phone,77,0
+R133,Finance,C-Suite,APAC,SMB,0,Email,39,0
+R134,Healthcare,Director,North America,Mid-market,0,Email,71,0
+R135,Manufacturing,Manager,LATAM,Enterprise,2,Email,59,0
+R136,Healthcare,Specialist,LATAM,Mid-market,0,LinkedIn,52,0
+R137,Technology,Manager,North America,Enterprise,0,Email,63,0
+R138,Retail,Director,North America,Mid-market,0,Phone,74,0
+R139,Healthcare,Director,APAC,Mid-market,0,LinkedIn,68,0
+R140,Manufacturing,Manager,EMEA,Enterprise,0,LinkedIn,47,0
+R141,Manufacturing,Manager,APAC,Mid-market,2,Email,71,0
+R142,Healthcare,C-Suite,LATAM,Enterprise,0,Phone,50,1
+R143,Technology,Specialist,APAC,SMB,0,Email,63,0
+R144,Healthcare,Manager,APAC,SMB,0,Email,55,0
+R145,Healthcare,Manager,North America,Enterprise,0,LinkedIn,57,0
+R146,Finance,Director,APAC,SMB,0,LinkedIn,71,0
+R147,Technology,Director,North America,Mid-market,0,Email,44,0
+R148,Technology,Manager,LATAM,Enterprise,0,Email,89,0
+R149,Finance,Manager,LATAM,Enterprise,0,LinkedIn,33,0
+R150,Healthcare,Specialist,LATAM,Mid-market,0,Email,51,0
+R151,Manufacturing,Manager,LATAM,SMB,0,Phone,66,0
+R152,Finance,Director,EMEA,SMB,1,LinkedIn,69,0
+R153,Finance,C-Suite,EMEA,Enterprise,0,Email,58,0
+R154,Technology,C-Suite,APAC,Enterprise,0,Email,59,0
+R155,Manufacturing,Manager,LATAM,Mid-market,0,Email,66,0
+R156,Finance,Specialist,APAC,Enterprise,2,LinkedIn,57,0
+R157,Technology,Specialist,APAC,Enterprise,0,LinkedIn,81,0
+R158,Retail,Director,APAC,Enterprise,0,Email,73,0
+R159,Finance,Specialist,North America,SMB,1,LinkedIn,73,0
+R160,Retail,C-Suite,North America,SMB,1,Phone,46,0
+R161,Healthcare,Director,North America,Mid-market,0,Email,59,0
+R162,Technology,C-Suite,EMEA,SMB,0,Phone,55,0
+R163,Technology,C-Suite,EMEA,Mid-market,1,Email,45,0
+R164,Technology,Director,APAC,Mid-market,3,Email,65,0
+R165,Finance,Manager,EMEA,Enterprise,1,Email,52,0
+R166,Retail,Director,APAC,Mid-market,0,Email,70,0
+R167,Healthcare,Director,EMEA,SMB,0,Email,44,0
+R168,Finance,Manager,LATAM,Mid-market,0,Email,86,0
+R169,Finance,Manager,APAC,Mid-market,2,Phone,47,0
+R170,Technology,Specialist,North America,Mid-market,0,Phone,63,0
+R171,Technology,Director,EMEA,Enterprise,0,LinkedIn,72,0
+R172,Finance,Specialist,North America,SMB,2,Email,51,0
+R173,Technology,Manager,APAC,Mid-market,0,Email,73,0
+R174,Finance,Manager,LATAM,Mid-market,2,Email,42,0
+R175,Technology,C-Suite,EMEA,Mid-market,0,LinkedIn,82,0
+R176,Finance,Director,North America,Mid-market,0,Phone,60,0
+R177,Technology,Director,APAC,Enterprise,0,Email,51,0
+R178,Healthcare,Specialist,North America,Mid-market,1,Email,56,0
+R179,Manufacturing,Director,LATAM,Enterprise,0,LinkedIn,72,0
+R180,Finance,Specialist,LATAM,SMB,0,Email,51,0
+R181,Healthcare,Specialist,LATAM,SMB,5,Email,49,0
+R182,Finance,Director,EMEA,SMB,0,LinkedIn,57,0
+R183,Manufacturing,Specialist,APAC,Mid-market,0,LinkedIn,42,0
+R184,Manufacturing,C-Suite,North America,Mid-market,0,Email,87,0
+R185,Healthcare,C-Suite,LATAM,Enterprise,0,Email,52,1
+R186,Technology,Manager,APAC,SMB,0,Phone,72,0
+R187,Retail,Specialist,LATAM,Enterprise,0,Email,63,0
+R188,Technology,Manager,EMEA,Mid-market,0,Email,45,0
+R189,Technology,Manager,APAC,Enterprise,0,Email,60,0
+R190,Finance,Manager,APAC,Enterprise,0,Email,72,0
+R191,Finance,Director,APAC,Mid-market,0,Email,57,0
+R192,Manufacturing,Director,APAC,Enterprise,0,Phone,78,0
+R193,Manufacturing,C-Suite,APAC,SMB,0,Email,75,0
+R194,Technology,Director,LATAM,Mid-market,0,Email,74,0
+R195,Healthcare,Specialist,EMEA,Enterprise,0,LinkedIn,53,0
+R196,Healthcare,Manager,LATAM,Mid-market,0,LinkedIn,44,0
+R197,Retail,Director,APAC,Enterprise,2,Phone,51,0
+R198,Manufacturing,Manager,EMEA,Enterprise,0,Phone,63,0
+R199,Manufacturing,Manager,EMEA,SMB,4,Email,68,0
+R200,Retail,Specialist,EMEA,Enterprise,4,LinkedIn,27,0
+R201,Technology,Manager,APAC,SMB,0,Email,60,0
+R202,Finance,Manager,North America,Enterprise,0,Phone,62,0
+R203,Finance,Manager,EMEA,Enterprise,0,Email,56,0
+R204,Manufacturing,Manager,EMEA,SMB,2,Phone,79,0
+R205,Technology,Director,North America,Mid-market,0,LinkedIn,66,0
+R206,Finance,Director,EMEA,Enterprise,0,Email,80,0
+R207,Finance,Manager,EMEA,Mid-market,0,LinkedIn,57,0
+R208,Technology,Manager,North America,Enterprise,2,Phone,74,0
+R209,Finance,Manager,LATAM,SMB,1,Phone,85,0
+R210,Finance,Manager,LATAM,Mid-market,0,Email,80,0
+R211,Technology,C-Suite,EMEA,SMB,0,LinkedIn,44,0
+R212,Technology,C-Suite,North America,SMB,0,Email,56,0
+R213,Technology,Specialist,APAC,Mid-market,0,Email,55,0
+R214,Finance,C-Suite,APAC,SMB,1,Email,67,0
+R215,Retail,Manager,LATAM,Mid-market,0,Email,70,0
+R216,Finance,C-Suite,EMEA,SMB,0,Phone,47,0
+R217,Healthcare,Manager,APAC,Enterprise,0,Email,61,0
+R218,Retail,Specialist,North America,Mid-market,2,Phone,30,0
+R219,Technology,Manager,EMEA,Mid-market,1,Email,82,0
+R220,Retail,Director,APAC,Mid-market,0,Email,52,0
+R221,Technology,Manager,APAC,Mid-market,1,Email,61,0
+R222,Technology,Manager,LATAM,SMB,0,Email,55,0
+R223,Finance,Manager,North America,Enterprise,0,Email,77,0
+R224,Healthcare,Director,LATAM,Enterprise,0,Email,17,0
+R225,Healthcare,Manager,APAC,SMB,0,LinkedIn,60,0
+R226,Finance,C-Suite,EMEA,Mid-market,0,Email,58,0
+R227,Manufacturing,Specialist,APAC,SMB,5,Email,53,0
+R228,Healthcare,Director,APAC,SMB,0,Email,86,0
+R229,Manufacturing,Specialist,LATAM,SMB,0,Phone,47,0
+R230,Technology,Manager,North America,SMB,0,Phone,72,0
+R231,Retail,Specialist,LATAM,Enterprise,0,Email,65,0
+R232,Technology,Director,APAC,Enterprise,5,Email,79,0
+R233,Technology,Manager,LATAM,SMB,0,Email,50,0
+R234,Technology,C-Suite,APAC,Mid-market,0,Phone,49,0
+R235,Finance,Specialist,EMEA,Enterprise,2,Email,76,0
+R236,Retail,Specialist,LATAM,Mid-market,0,Email,66,0
+R237,Healthcare,C-Suite,North America,SMB,0,Email,37,1
+R238,Finance,Specialist,LATAM,Mid-market,0,Email,52,0
+R239,Technology,Specialist,LATAM,Mid-market,0,Email,66,0
+R240,Finance,Director,North America,Mid-market,3,LinkedIn,73,0
+R241,Manufacturing,Specialist,EMEA,Enterprise,1,Email,50,0
+R242,Manufacturing,Director,North America,Mid-market,0,LinkedIn,16,0
+R243,Manufacturing,Manager,North America,Mid-market,1,Email,68,0
+R244,Healthcare,Specialist,LATAM,Enterprise,0,Email,42,0
+R245,Finance,Manager,EMEA,SMB,0,Phone,30,0
+R246,Manufacturing,Manager,APAC,Mid-market,0,Email,18,0
+R247,Healthcare,Manager,EMEA,SMB,0,Phone,72,0
+R248,Manufacturing,Manager,LATAM,SMB,0,LinkedIn,62,0
+R249,Manufacturing,C-Suite,APAC,Enterprise,0,Email,57,0
+R250,Manufacturing,Manager,LATAM,Mid-market,5,Phone,81,0
+R251,Healthcare,C-Suite,North America,Mid-market,0,Email,70,1
+R252,Healthcare,Director,APAC,SMB,0,Phone,84,0
+R253,Manufacturing,Manager,APAC,Enterprise,0,Email,39,0
+R254,Healthcare,Director,LATAM,Mid-market,0,Phone,59,0
+R255,Finance,C-Suite,North America,Mid-market,0,Email,36,0
+R256,Technology,Manager,EMEA,Enterprise,0,LinkedIn,57,0
+R257,Manufacturing,C-Suite,North America,Enterprise,2,LinkedIn,56,0
+R258,Technology,Director,APAC,Mid-market,0,Phone,69,0
+R259,Technology,Specialist,EMEA,SMB,0,Phone,61,0
+R260,Finance,C-Suite,North America,Mid-market,0,Phone,69,0
+R261,Technology,Manager,APAC,Mid-market,0,Phone,71,0
+R262,Manufacturing,Manager,North America,Mid-market,0,Email,92,0
+R263,Finance,Specialist,North America,SMB,1,Email,55,0
+R264,Technology,Specialist,EMEA,Enterprise,0,Email,46,0
+R265,Manufacturing,Manager,APAC,SMB,0,Email,64,0
+R266,Retail,Specialist,EMEA,Enterprise,0,Email,48,0
+R267,Technology,Director,LATAM,Mid-market,0,LinkedIn,82,0
+R268,Retail,Manager,North America,Enterprise,0,Email,56,0
+R269,Healthcare,C-Suite,APAC,Enterprise,1,LinkedIn,52,1
+R270,Healthcare,Manager,APAC,Mid-market,0,Email,53,0
+R271,Retail,Specialist,EMEA,Enterprise,1,Email,71,0
+R272,Retail,Specialist,North America,SMB,0,LinkedIn,58,0
+R273,Manufacturing,Manager,North America,Enterprise,1,LinkedIn,50,0
+R274,Manufacturing,Manager,North America,Mid-market,0,LinkedIn,85,0
+R275,Technology,C-Suite,LATAM,Mid-market,0,LinkedIn,47,0
+R276,Technology,Director,EMEA,Enterprise,0,Email,61,0
+R277,Retail,Specialist,North America,Enterprise,3,LinkedIn,70,0
+R278,Technology,Director,EMEA,Mid-market,0,Email,36,0
+R279,Retail,Manager,EMEA,Mid-market,0,Email,67,0
+R280,Retail,C-Suite,North America,Mid-market,0,Email,44,0
+R281,Manufacturing,Director,LATAM,Mid-market,1,Email,72,0
+R282,Healthcare,Director,LATAM,Mid-market,0,Email,46,0
+R283,Healthcare,Specialist,LATAM,Enterprise,1,Phone,70,0
+R284,Finance,Manager,EMEA,Mid-market,0,Phone,77,0
+R285,Technology,Specialist,APAC,SMB,0,Email,73,0
+R286,Finance,Specialist,North America,Mid-market,0,Email,64,0
+R287,Technology,C-Suite,LATAM,Mid-market,5,Email,57,0
+R288,Technology,Manager,APAC,Mid-market,0,Email,51,0
+R289,Healthcare,Manager,North America,SMB,4,Phone,82,0
+R290,Technology,Manager,APAC,SMB,0,Email,50,0
+R291,Finance,Specialist,LATAM,Mid-market,0,LinkedIn,44,0
+R292,Finance,Manager,EMEA,SMB,0,Email,70,0
+R293,Retail,Director,EMEA,Enterprise,0,Phone,48,0
+R294,Healthcare,Director,North America,Enterprise,1,Email,46,0
+R295,Finance,Manager,APAC,SMB,3,LinkedIn,38,0
+R296,Technology,Manager,LATAM,SMB,1,Email,53,0
+R297,Retail,C-Suite,EMEA,Enterprise,2,LinkedIn,59,0
+R298,Finance,Specialist,APAC,Enterprise,0,Email,64,0
+R299,Technology,Director,North America,Enterprise,0,Email,74,0
+R300,Finance,C-Suite,EMEA,Enterprise,3,Phone,68,0
+R301,Finance,Specialist,North America,SMB,0,Phone,57,0
+R302,Technology,Manager,EMEA,Mid-market,2,Phone,57,0
+R303,Technology,Director,APAC,Mid-market,2,LinkedIn,68,0
+R304,Technology,Manager,North America,Mid-market,0,Phone,79,0
+R305,Retail,Manager,APAC,Enterprise,3,Email,62,0
+R306,Manufacturing,Manager,APAC,Enterprise,0,Email,53,0
+R307,Technology,Manager,LATAM,Mid-market,0,Email,45,0
+R308,Healthcare,Director,APAC,SMB,0,LinkedIn,38,0
+R309,Retail,C-Suite,EMEA,SMB,0,Email,70,0
+R310,Healthcare,Specialist,LATAM,Enterprise,0,Email,69,0
+R311,Healthcare,Director,APAC,SMB,0,LinkedIn,69,0
+R312,Finance,Director,APAC,SMB,2,Phone,58,0
+R313,Finance,Specialist,APAC,SMB,5,Email,81,0
+R314,Manufacturing,Manager,EMEA,Mid-market,0,Email,53,0
+R315,Retail,Director,EMEA,Mid-market,0,Email,74,0
+R316,Technology,Manager,APAC,Mid-market,4,Email,59,0
+R317,Healthcare,C-Suite,APAC,Enterprise,0,Email,51,1
+R318,Finance,Manager,North America,Enterprise,0,LinkedIn,69,0
+R319,Finance,C-Suite,APAC,Enterprise,0,LinkedIn,66,0
+R320,Healthcare,Manager,EMEA,Mid-market,0,LinkedIn,65,0
+R321,Technology,Specialist,LATAM,SMB,0,Email,61,0
+R322,Retail,Manager,North America,Mid-market,3,Phone,59,0
+R323,Technology,C-Suite,North America,Enterprise,0,Email,96,0
+R324,Healthcare,Director,LATAM,SMB,0,Email,78,0
+R325,Manufacturing,Director,North America,SMB,0,Phone,71,0
+R326,Retail,Director,LATAM,SMB,0,Email,62,0
+R327,Technology,Specialist,North America,SMB,0,Email,75,0
+R328,Technology,Specialist,EMEA,Mid-market,1,Phone,68,0
+R329,Healthcare,Director,LATAM,SMB,2,Email,60,0
+R330,Finance,Manager,North America,Enterprise,0,LinkedIn,55,0
+R331,Healthcare,Manager,North America,Mid-market,3,Email,59,0
+R332,Retail,C-Suite,APAC,Enterprise,2,LinkedIn,12,0
+R333,Finance,Manager,APAC,Enterprise,1,Email,63,0
+R334,Finance,Director,APAC,Enterprise,0,Email,53,0
+R335,Finance,Specialist,LATAM,Mid-market,0,LinkedIn,84,0
+R336,Finance,C-Suite,EMEA,SMB,0,Email,60,0
+R337,Manufacturing,Director,APAC,Mid-market,0,Email,42,0
+R338,Retail,C-Suite,North America,Enterprise,0,Email,59,0
+R339,Technology,Specialist,LATAM,SMB,0,Email,44,0
+R340,Finance,Manager,APAC,Mid-market,1,Email,67,0
+R341,Technology,Manager,EMEA,Mid-market,1,Email,64,0
+R342,Technology,Specialist,EMEA,Mid-market,3,Phone,74,0
+R343,Finance,Specialist,LATAM,Enterprise,0,Email,48,0
+R344,Healthcare,Specialist,EMEA,Mid-market,0,Email,61,0
+R345,Healthcare,Manager,EMEA,SMB,0,Email,40,0
+R346,Technology,Specialist,APAC,Enterprise,0,Email,71,0
+R347,Technology,C-Suite,LATAM,Mid-market,0,Phone,68,0
+R348,Finance,Director,EMEA,SMB,0,Email,67,0
+R349,Healthcare,Manager,EMEA,SMB,0,Phone,60,0
+R350,Technology,C-Suite,North America,Enterprise,1,Email,66,0
+R351,Technology,C-Suite,APAC,Enterprise,0,LinkedIn,84,0
+R352,Manufacturing,Specialist,North America,Enterprise,1,LinkedIn,56,0
+R353,Technology,Specialist,North America,Mid-market,0,Phone,62,0
+R354,Finance,Specialist,LATAM,Mid-market,0,LinkedIn,44,0
+R355,Finance,Manager,APAC,Enterprise,0,LinkedIn,47,0
+R356,Technology,Specialist,EMEA,SMB,0,Email,61,0
+R357,Finance,Director,North America,Mid-market,0,Email,77,0
+R358,Technology,Director,North America,Enterprise,0,Phone,56,0
+R359,Manufacturing,Manager,LATAM,Mid-market,0,Email,56,0
+R360,Technology,Specialist,LATAM,Mid-market,0,Email,54,0
+R361,Healthcare,C-Suite,EMEA,Enterprise,0,LinkedIn,52,1
+R362,Technology,Director,APAC,Enterprise,3,Email,64,0
+R363,Technology,Manager,APAC,SMB,0,Phone,38,0
+R364,Technology,Specialist,APAC,Mid-market,2,LinkedIn,79,0
+R365,Manufacturing,Manager,North America,Mid-market,0,LinkedIn,50,0
+R366,Healthcare,C-Suite,LATAM,Mid-market,4,Phone,71,1
+R367,Manufacturing,Director,APAC,Enterprise,1,Email,41,0
+R368,Manufacturing,Manager,EMEA,Enterprise,0,Email,70,0
+R369,Finance,Director,LATAM,Mid-market,0,Email,70,0
+R370,Finance,Specialist,North America,Enterprise,2,Email,66,0
+R371,Finance,Director,EMEA,Enterprise,0,LinkedIn,45,0
+R372,Finance,Manager,LATAM,SMB,0,Phone,64,0
+R373,Finance,Director,EMEA,SMB,0,Email,42,0
+R374,Technology,Director,LATAM,SMB,2,Email,56,0
+R375,Finance,Specialist,APAC,SMB,1,Phone,75,0
+R376,Healthcare,Director,EMEA,Enterprise,0,Email,72,0
+R377,Retail,Director,LATAM,SMB,0,Email,60,0
+R378,Finance,Director,North America,Enterprise,0,Email,45,0
+R379,Retail,Manager,North America,SMB,0,Phone,70,0
+R380,Healthcare,Manager,LATAM,SMB,5,LinkedIn,60,0
+R381,Finance,Director,LATAM,SMB,0,LinkedIn,25,0
+R382,Technology,Manager,APAC,SMB,0,Phone,72,0
+R383,Technology,Manager,North America,Mid-market,0,Email,60,0
+R384,Manufacturing,Director,EMEA,Enterprise,2,Email,78,0
+R385,Retail,C-Suite,APAC,Mid-market,0,Phone,44,0
+R386,Retail,Director,LATAM,Mid-market,0,Email,12,0
+R387,Healthcare,Manager,APAC,Enterprise,0,LinkedIn,64,0
+R388,Finance,Specialist,LATAM,Mid-market,0,Phone,64,0
+R389,Retail,Manager,North America,SMB,0,LinkedIn,35,0
+R390,Retail,Director,North America,Enterprise,0,LinkedIn,45,0
+R391,Manufacturing,Manager,North America,SMB,0,Phone,100,0
+R392,Healthcare,Manager,North America,SMB,4,Phone,55,0
+R393,Healthcare,Specialist,North America,SMB,2,Email,71,0
+R394,Retail,Director,APAC,SMB,3,Email,50,0
+R395,Healthcare,Specialist,EMEA,Mid-market,0,Email,29,0
+R396,Manufacturing,Manager,North America,SMB,4,LinkedIn,57,0
+R397,Manufacturing,Manager,North America,SMB,0,Email,56,0
+R398,Healthcare,Specialist,APAC,Enterprise,0,LinkedIn,54,0
+R399,Retail,Director,APAC,Mid-market,0,Email,58,0
+R400,Retail,Manager,LATAM,SMB,0,LinkedIn,64,0
+R401,Finance,C-Suite,APAC,Enterprise,0,Email,58,0
+R402,Manufacturing,Manager,North America,Mid-market,0,LinkedIn,41,0
+R403,Technology,Manager,North America,Mid-market,0,LinkedIn,67,0
+R404,Retail,Manager,EMEA,Enterprise,0,Email,31,0
+R405,Healthcare,Specialist,APAC,Mid-market,0,Email,29,0
+R406,Manufacturing,Specialist,North America,SMB,0,LinkedIn,71,0
+R407,Healthcare,Specialist,EMEA,Mid-market,0,Email,68,0
+R408,Finance,Manager,LATAM,Enterprise,1,Email,59,0
+R409,Manufacturing,Manager,LATAM,Enterprise,2,Phone,39,0
+R410,Finance,Specialist,EMEA,Mid-market,0,LinkedIn,49,0
+R411,Healthcare,Manager,APAC,SMB,0,Phone,56,0
+R412,Manufacturing,Specialist,EMEA,Enterprise,0,Email,36,0
+R413,Manufacturing,Manager,LATAM,Mid-market,2,Email,49,0
+R414,Technology,Manager,LATAM,Enterprise,0,Phone,70,0
+R415,Technology,Director,North America,Mid-market,0,LinkedIn,81,0
+R416,Healthcare,Director,North America,SMB,0,LinkedIn,54,0
+R417,Healthcare,Manager,North America,SMB,0,Email,71,0
+R418,Healthcare,C-Suite,EMEA,Enterprise,0,Email,31,1
+R419,Technology,Manager,LATAM,Mid-market,2,Email,70,0
+R420,Retail,Manager,North America,Enterprise,0,Email,48,0
+R421,Retail,Director,North America,Mid-market,0,Email,65,0
+R422,Retail,Director,LATAM,Mid-market,1,Email,56,0
+R423,Finance,Director,APAC,Enterprise,1,Phone,80,0
+R424,Technology,Manager,APAC,Enterprise,0,Email,47,0
+R425,Finance,Specialist,LATAM,Mid-market,0,LinkedIn,69,0
+R426,Technology,C-Suite,LATAM,SMB,0,Phone,56,0
+R427,Healthcare,Director,LATAM,SMB,3,LinkedIn,58,0
+R428,Manufacturing,Specialist,EMEA,Enterprise,0,Email,57,0
+R429,Healthcare,Manager,North America,SMB,5,LinkedIn,47,0
+R430,Finance,Director,North America,Mid-market,0,LinkedIn,60,0
+R431,Finance,C-Suite,EMEA,Mid-market,0,LinkedIn,59,0
+R432,Retail,Specialist,APAC,SMB,0,LinkedIn,64,0
+R433,Technology,Manager,EMEA,SMB,0,Phone,61,0
+R434,Finance,Director,APAC,SMB,0,LinkedIn,72,0
+R435,Finance,Manager,North America,Mid-market,0,Email,74,0
+R436,Retail,Manager,EMEA,Mid-market,0,LinkedIn,44,0
+R437,Finance,Director,EMEA,SMB,5,Email,73,0
+R438,Retail,Director,EMEA,Enterprise,0,Phone,42,0
+R439,Retail,Manager,North America,Mid-market,1,Email,69,0
+R440,Finance,Specialist,LATAM,Mid-market,0,Email,69,0
+R441,Finance,Specialist,LATAM,Mid-market,0,Phone,31,0
+R442,Manufacturing,C-Suite,EMEA,Enterprise,0,LinkedIn,61,0
+R443,Healthcare,Manager,EMEA,Enterprise,0,Email,53,0
+R444,Healthcare,C-Suite,EMEA,SMB,5,Email,49,1
+R445,Retail,Specialist,APAC,Enterprise,0,Phone,80,0
+R446,Manufacturing,C-Suite,North America,Mid-market,0,Email,50,0
+R447,Manufacturing,Manager,North America,Enterprise,0,Phone,48,0
+R448,Retail,Director,North America,Enterprise,0,Email,61,0
+R449,Healthcare,Specialist,LATAM,Enterprise,0,LinkedIn,70,0
+R450,Finance,Manager,North America,Enterprise,2,Phone,58,0
+R451,Retail,Specialist,North America,SMB,1,Email,77,0
+R452,Technology,Director,North America,Enterprise,0,Email,68,0
+R453,Healthcare,Manager,APAC,SMB,0,Email,27,0
+R454,Manufacturing,Manager,APAC,Mid-market,0,LinkedIn,52,0
+R455,Finance,Manager,LATAM,Mid-market,0,LinkedIn,52,0
+R456,Technology,Specialist,EMEA,Mid-market,0,LinkedIn,67,0
+R457,Finance,Director,LATAM,Mid-market,0,Email,21,0
+R458,Technology,Manager,LATAM,SMB,0,Email,98,0
+R459,Finance,Manager,North America,Enterprise,0,Email,68,0
+R460,Finance,C-Suite,EMEA,Mid-market,0,Email,62,0
+R461,Finance,Specialist,EMEA,SMB,0,LinkedIn,78,0
+R462,Technology,Director,EMEA,SMB,0,Phone,95,0
+R463,Retail,Specialist,APAC,SMB,0,LinkedIn,73,0
+R464,Technology,Manager,EMEA,Mid-market,2,Email,74,0
+R465,Manufacturing,Manager,EMEA,SMB,0,Phone,62,0
+R466,Healthcare,Manager,North America,Mid-market,0,LinkedIn,58,0
+R467,Healthcare,Manager,EMEA,Mid-market,0,Phone,53,0
+R468,Manufacturing,Director,APAC,Enterprise,1,LinkedIn,48,0
+R469,Finance,Manager,EMEA,Mid-market,0,Email,50,0
+R470,Manufacturing,Specialist,LATAM,Enterprise,0,Email,40,0
+R471,Finance,Manager,APAC,Mid-market,0,LinkedIn,59,0
+R472,Manufacturing,Specialist,EMEA,SMB,2,Email,35,0
+R473,Finance,Specialist,North America,Enterprise,3,Email,63,0
+R474,Manufacturing,C-Suite,APAC,Enterprise,0,LinkedIn,59,0
+R475,Technology,Manager,LATAM,Enterprise,1,LinkedIn,62,0
+R476,Manufacturing,Director,North America,SMB,4,LinkedIn,52,0
+R477,Finance,Specialist,EMEA,Mid-market,5,Email,100,0
+R478,Technology,Director,EMEA,Mid-market,0,Email,80,0
+R479,Manufacturing,Manager,North America,SMB,0,LinkedIn,41,0
+R480,Technology,Director,APAC,SMB,0,Phone,63,0
+R481,Technology,Manager,EMEA,Mid-market,1,LinkedIn,51,0
+R482,Technology,Specialist,LATAM,Mid-market,0,Phone,45,0
+R483,Technology,Director,EMEA,SMB,0,LinkedIn,40,0
+R484,Technology,Manager,EMEA,Mid-market,0,LinkedIn,66,0
+R485,Technology,Manager,APAC,Enterprise,2,Email,50,0
+R486,Manufacturing,Director,LATAM,SMB,1,LinkedIn,75,0
+R487,Finance,C-Suite,APAC,Mid-market,0,LinkedIn,75,0
+R488,Healthcare,C-Suite,APAC,Enterprise,2,LinkedIn,81,1
+R489,Manufacturing,Director,LATAM,Mid-market,0,Email,47,0
+R490,Manufacturing,Director,EMEA,Enterprise,1,LinkedIn,67,0
+R491,Technology,Specialist,North America,Enterprise,0,Email,69,0
+R492,Technology,Specialist,LATAM,SMB,0,LinkedIn,53,0
+R493,Healthcare,Manager,APAC,Enterprise,3,Email,48,0
+R494,Finance,Specialist,North America,Mid-market,0,Phone,84,0
+R495,Technology,C-Suite,LATAM,Mid-market,1,Email,63,0
+R496,Healthcare,Director,LATAM,Enterprise,0,Email,70,0
+R497,Technology,Specialist,LATAM,SMB,0,Email,48,0
+R498,Finance,Specialist,EMEA,Enterprise,0,LinkedIn,42,0
+R499,Manufacturing,C-Suite,APAC,Mid-market,0,Email,51,0
+R500,Manufacturing,Director,APAC,Mid-market,0,Email,58,0
+R501,Technology,Director,EMEA,Enterprise,0,LinkedIn,44,0
+R502,Technology,Director,LATAM,Enterprise,0,Email,60,0
+R503,Healthcare,Manager,APAC,SMB,0,Phone,35,0
+R504,Retail,Manager,EMEA,SMB,3,Phone,43,0
+R505,Technology,Manager,LATAM,Enterprise,4,LinkedIn,70,0
+R506,Finance,Specialist,North America,Mid-market,0,Email,69,0
+R507,Manufacturing,Specialist,LATAM,SMB,2,LinkedIn,54,0
+R508,Retail,Manager,LATAM,SMB,0,Email,45,0
+R509,Manufacturing,Manager,APAC,Mid-market,0,Email,45,0
+R510,Retail,C-Suite,EMEA,Mid-market,2,Email,54,0
+R511,Technology,Director,North America,Mid-market,5,Phone,70,0
+R512,Healthcare,Director,North America,SMB,0,Email,74,0
+R513,Manufacturing,Manager,APAC,SMB,2,LinkedIn,53,0
+R514,Manufacturing,Specialist,EMEA,Enterprise,0,LinkedIn,43,0
+R515,Finance,Manager,EMEA,Mid-market,3,Email,64,0
+R516,Finance,Specialist,APAC,SMB,0,Email,48,0
+R517,Healthcare,Manager,LATAM,SMB,0,Phone,52,0
+R518,Retail,Specialist,APAC,SMB,0,LinkedIn,80,0
+R519,Manufacturing,Manager,APAC,SMB,0,LinkedIn,72,0
+R520,Finance,Manager,North America,Mid-market,0,Email,62,0
+R521,Technology,C-Suite,LATAM,Mid-market,4,Email,41,0
+R522,Healthcare,Specialist,North America,Mid-market,0,Email,63,0
+R523,Manufacturing,Specialist,APAC,Enterprise,0,Email,76,0
+R524,Retail,Specialist,North America,Mid-market,0,Email,54,0
+R525,Retail,Director,LATAM,SMB,0,Phone,80,0
+R526,Technology,C-Suite,North America,Enterprise,0,Email,79,0
+R527,Healthcare,Manager,LATAM,SMB,0,Email,85,0
+R528,Healthcare,C-Suite,APAC,Mid-market,0,LinkedIn,65,1
+R529,Finance,C-Suite,LATAM,SMB,0,LinkedIn,69,0
+R530,Manufacturing,Director,LATAM,Enterprise,0,Email,81,0
+R531,Retail,Director,APAC,Enterprise,1,LinkedIn,67,0
+R532,Manufacturing,Director,EMEA,Mid-market,2,Email,52,0
+R533,Manufacturing,Specialist,EMEA,Enterprise,0,Email,53,0
+R534,Technology,Manager,EMEA,SMB,0,Email,64,0
+R535,Retail,Manager,EMEA,SMB,0,Phone,41,0
+R536,Manufacturing,Specialist,APAC,Enterprise,0,Email,58,0
+R537,Retail,Manager,North America,Mid-market,0,Email,76,0
+R538,Finance,Specialist,LATAM,Mid-market,0,Email,27,0
+R539,Technology,Manager,EMEA,Mid-market,0,Phone,83,0
+R540,Finance,Specialist,EMEA,SMB,0,Email,77,0
+R541,Manufacturing,Manager,EMEA,SMB,0,Email,53,0
+R542,Technology,C-Suite,EMEA,Mid-market,1,Email,68,0
+R543,Finance,Specialist,APAC,SMB,5,Email,60,0
+R544,Technology,C-Suite,APAC,Mid-market,0,LinkedIn,78,0
+R545,Technology,C-Suite,LATAM,SMB,0,LinkedIn,75,0
+R546,Healthcare,Manager,LATAM,Mid-market,2,Email,39,0
+R547,Finance,Manager,APAC,SMB,4,Email,69,0
+R548,Technology,Manager,LATAM,SMB,0,Email,57,0
+R549,Technology,Director,APAC,Enterprise,0,Email,61,0
+R550,Retail,Director,EMEA,SMB,0,Email,49,0
+R551,Technology,Manager,North America,Enterprise,0,LinkedIn,86,0
+R552,Manufacturing,Manager,APAC,Mid-market,0,Phone,76,0
+R553,Technology,Specialist,EMEA,Mid-market,0,Phone,49,0
+R554,Technology,Manager,LATAM,SMB,0,Phone,40,0
+R555,Manufacturing,Director,LATAM,SMB,0,LinkedIn,54,0
+R556,Healthcare,Specialist,North America,SMB,2,LinkedIn,67,0
+R557,Finance,C-Suite,North America,SMB,0,Email,64,0
+R558,Finance,Manager,LATAM,Mid-market,0,LinkedIn,79,0
+R559,Retail,Manager,APAC,SMB,0,Email,72,0
+R560,Technology,Specialist,North America,Mid-market,0,Email,75,0
+R561,Retail,Director,EMEA,Mid-market,4,LinkedIn,65,0
+R562,Finance,Director,APAC,Enterprise,0,Email,39,0
+R563,Finance,Manager,LATAM,SMB,0,Email,57,0
+R564,Finance,Specialist,North America,SMB,2,Phone,76,0
+R565,Healthcare,Manager,APAC,Mid-market,0,Email,59,0
+R566,Technology,Specialist,North America,Enterprise,3,Email,68,0
+R567,Healthcare,C-Suite,North America,SMB,0,Phone,55,1
+R568,Healthcare,C-Suite,EMEA,Enterprise,0,LinkedIn,45,1
+R569,Manufacturing,Director,North America,SMB,0,LinkedIn,58,0
+R570,Healthcare,Director,APAC,SMB,0,Email,65,0
+R571,Technology,Manager,LATAM,Mid-market,2,Email,50,0
+R572,Retail,C-Suite,EMEA,Enterprise,2,Phone,56,0
+R573,Healthcare,C-Suite,LATAM,SMB,0,LinkedIn,46,1
+R574,Technology,C-Suite,LATAM,SMB,0,LinkedIn,77,0
+R575,Manufacturing,C-Suite,North America,Mid-market,2,Email,56,0
+R576,Manufacturing,Manager,North America,SMB,3,Email,82,0
+R577,Finance,Director,North America,Enterprise,0,Phone,83,0
+R578,Manufacturing,C-Suite,North America,Mid-market,0,Email,59,0
+R579,Technology,C-Suite,EMEA,SMB,0,LinkedIn,45,0
+R580,Healthcare,Director,APAC,SMB,1,Email,29,0
+R581,Technology,C-Suite,EMEA,Enterprise,0,LinkedIn,38,0
+R582,Manufacturing,Manager,EMEA,SMB,0,Phone,39,0
+R583,Technology,Specialist,LATAM,Mid-market,2,LinkedIn,81,0
+R584,Healthcare,Specialist,North America,Mid-market,0,Email,62,0
+R585,Technology,Specialist,EMEA,Enterprise,0,LinkedIn,66,0
+R586,Finance,Specialist,North America,SMB,0,LinkedIn,27,0
+R587,Finance,Manager,APAC,Enterprise,0,Email,42,0
+R588,Finance,Manager,APAC,Mid-market,0,Phone,73,0
+R589,Finance,Specialist,EMEA,Enterprise,0,LinkedIn,64,0
+R590,Finance,Manager,LATAM,SMB,0,Phone,58,0
+R591,Finance,C-Suite,North America,Mid-market,0,LinkedIn,68,0
+R592,Technology,Director,North America,SMB,1,Email,85,0
+R593,Finance,Director,EMEA,Enterprise,2,Email,57,0
+R594,Healthcare,Manager,LATAM,Mid-market,0,Email,61,0
+R595,Manufacturing,C-Suite,EMEA,Mid-market,0,Phone,63,0
+R596,Technology,Specialist,APAC,SMB,0,LinkedIn,96,0
+R597,Technology,Specialist,LATAM,SMB,0,LinkedIn,29,0
+R598,Finance,Manager,North America,Enterprise,0,Email,70,0
+R599,Finance,Director,North America,Mid-market,0,Email,58,0
+R600,Finance,Manager,LATAM,Enterprise,0,LinkedIn,69,0
+R601,Finance,Specialist,LATAM,Mid-market,0,Email,50,0
+R602,Healthcare,Director,APAC,Enterprise,0,Email,59,0
+R603,Finance,Director,APAC,Mid-market,0,LinkedIn,71,0
+R604,Finance,Specialist,LATAM,Mid-market,0,Email,100,0
+R605,Finance,C-Suite,APAC,Mid-market,0,Email,72,0
+R606,Technology,C-Suite,North America,Mid-market,0,Email,47,0
+R607,Finance,Specialist,LATAM,SMB,2,Email,54,0
+R608,Healthcare,Manager,APAC,Mid-market,2,Phone,53,0
+R609,Technology,Specialist,LATAM,Enterprise,0,Email,33,0
+R610,Technology,Director,APAC,SMB,0,Email,55,0
+R611,Finance,C-Suite,EMEA,Enterprise,0,Email,71,0
+R612,Retail,Manager,APAC,Mid-market,0,LinkedIn,41,0
+R613,Technology,Specialist,APAC,Mid-market,0,Email,76,0
+R614,Finance,Director,EMEA,Mid-market,1,LinkedIn,67,0
+R615,Manufacturing,Specialist,EMEA,Enterprise,0,Email,49,0
+R616,Manufacturing,Manager,North America,Mid-market,1,Email,58,0
+R617,Finance,Director,APAC,SMB,0,Email,84,0
+R618,Healthcare,Specialist,EMEA,Mid-market,0,Phone,71,0
+R619,Retail,Manager,LATAM,Mid-market,2,Phone,60,0
+R620,Retail,Manager,LATAM,Mid-market,0,Email,56,0
+R621,Finance,Director,LATAM,Enterprise,0,LinkedIn,61,0
+R622,Finance,Manager,LATAM,Mid-market,0,Phone,52,0
+R623,Healthcare,Specialist,EMEA,SMB,0,Email,28,0
+R624,Technology,Manager,North America,Enterprise,3,Phone,91,0
+R625,Technology,Director,APAC,Enterprise,0,Email,62,0
+R626,Healthcare,Manager,North America,Enterprise,4,Phone,66,0
+R627,Technology,C-Suite,North America,Mid-market,3,LinkedIn,59,0
+R628,Retail,Manager,APAC,SMB,1,Phone,49,0
+R629,Finance,Manager,APAC,Enterprise,0,LinkedIn,57,0
+R630,Healthcare,Director,EMEA,Mid-market,0,Email,36,0
+R631,Retail,Manager,LATAM,Enterprise,2,Phone,94,0
+R632,Manufacturing,Manager,EMEA,SMB,0,Email,41,0
+R633,Technology,C-Suite,APAC,Enterprise,0,Email,45,0
+R634,Technology,Specialist,LATAM,Mid-market,0,LinkedIn,53,0
+R635,Finance,Manager,APAC,SMB,0,LinkedIn,79,0
+R636,Healthcare,Director,LATAM,SMB,0,Phone,60,0
+R637,Technology,Manager,APAC,Mid-market,0,Email,41,0
+R638,Finance,Specialist,North America,Mid-market,0,LinkedIn,79,0
+R639,Healthcare,Specialist,North America,Mid-market,2,LinkedIn,71,0
+R640,Healthcare,Director,APAC,Enterprise,0,Email,68,0
+R641,Finance,Director,EMEA,Enterprise,4,Email,71,0
+R642,Healthcare,Specialist,North America,Mid-market,0,Email,96,0
+R643,Finance,Manager,LATAM,Enterprise,1,Email,93,0
+R644,Healthcare,Director,LATAM,Enterprise,0,Phone,50,0
+R645,Finance,Manager,North America,Mid-market,1,LinkedIn,84,0
+R646,Manufacturing,Director,North America,SMB,0,LinkedIn,66,0
+R647,Technology,Manager,LATAM,Mid-market,1,Phone,67,0
+R648,Technology,Manager,LATAM,Enterprise,0,Email,35,0
+R649,Retail,Director,North America,Enterprise,1,Phone,57,0
+R650,Technology,C-Suite,APAC,SMB,4,Email,48,0
+R651,Finance,Manager,APAC,Enterprise,0,Phone,72,0
+R652,Technology,Specialist,APAC,Enterprise,0,Email,76,0
+R653,Technology,Director,APAC,Mid-market,2,Phone,29,0
+R654,Retail,Manager,North America,Mid-market,0,Email,60,0
+R655,Healthcare,Manager,EMEA,Mid-market,1,Email,77,0
+R656,Finance,Specialist,APAC,Enterprise,0,LinkedIn,57,0
+R657,Healthcare,C-Suite,LATAM,Enterprise,0,Email,71,1
+R658,Healthcare,C-Suite,North America,SMB,3,LinkedIn,65,1
+R659,Technology,C-Suite,North America,Enterprise,0,Email,65,0
+R660,Technology,Director,LATAM,Mid-market,1,LinkedIn,56,0
+R661,Healthcare,Director,EMEA,SMB,0,Email,42,0
+R662,Manufacturing,Specialist,LATAM,Mid-market,0,Email,43,0
+R663,Technology,Specialist,APAC,Mid-market,0,Email,71,0
+R664,Finance,Specialist,LATAM,Enterprise,0,Email,60,0
+R665,Finance,Specialist,LATAM,Mid-market,0,Email,58,0
+R666,Finance,Specialist,APAC,SMB,0,Email,54,0
+R667,Finance,Manager,North America,SMB,0,Email,55,0
+R668,Finance,Manager,APAC,Enterprise,0,Email,76,0
+R669,Finance,Manager,EMEA,Enterprise,2,LinkedIn,55,0
+R670,Healthcare,Specialist,EMEA,SMB,0,Phone,40,0
+R671,Finance,Manager,EMEA,SMB,0,Email,71,0
+R672,Manufacturing,Manager,North America,SMB,0,LinkedIn,57,0
+R673,Finance,C-Suite,APAC,Enterprise,0,LinkedIn,60,0
+R674,Technology,Manager,APAC,Mid-market,1,Email,84,0
+R675,Healthcare,C-Suite,APAC,SMB,0,LinkedIn,60,1
+R676,Manufacturing,Specialist,North America,Mid-market,0,Email,64,0
+R677,Finance,Manager,EMEA,Mid-market,0,LinkedIn,42,0
+R678,Healthcare,Manager,North America,Enterprise,0,Email,57,0
+R679,Manufacturing,Director,APAC,Mid-market,1,LinkedIn,69,0
+R680,Manufacturing,Director,North America,Enterprise,0,LinkedIn,37,0
+R681,Retail,Manager,EMEA,Mid-market,1,Email,63,0
+R682,Healthcare,Director,LATAM,SMB,0,Email,62,0
+R683,Finance,Director,LATAM,Mid-market,0,Phone,61,0
+R684,Technology,Director,APAC,SMB,5,Email,76,0
+R685,Manufacturing,Director,APAC,Enterprise,0,LinkedIn,65,0
+R686,Technology,Specialist,LATAM,Mid-market,0,Phone,82,0
+R687,Technology,Manager,North America,SMB,0,LinkedIn,45,0
+R688,Healthcare,C-Suite,LATAM,Enterprise,0,LinkedIn,62,1
+R689,Retail,Specialist,LATAM,Enterprise,0,LinkedIn,61,0
+R690,Finance,Manager,EMEA,Mid-market,0,Phone,44,0
+R691,Healthcare,Manager,LATAM,Enterprise,0,Email,74,0
+R692,Healthcare,Director,APAC,SMB,0,Email,95,0
+R693,Technology,Specialist,LATAM,SMB,0,Email,60,0
+R694,Finance,Director,APAC,Mid-market,0,Phone,68,0
+R695,Finance,Manager,LATAM,Enterprise,0,LinkedIn,61,0
+R696,Technology,Director,North America,Mid-market,0,Email,49,0
+R697,Healthcare,Director,LATAM,SMB,5,Phone,33,0
+R698,Technology,Specialist,LATAM,Enterprise,0,Email,49,0
+R699,Finance,Director,North America,Mid-market,1,Email,39,0
+R700,Technology,Specialist,North America,Mid-market,0,LinkedIn,86,0
+R701,Technology,Manager,APAC,Mid-market,0,Email,58,0
+R702,Finance,Manager,EMEA,Enterprise,0,Phone,55,0
+R703,Healthcare,Specialist,APAC,SMB,0,Email,73,0
+R704,Finance,Manager,APAC,Enterprise,0,Phone,43,0
+R705,Finance,Manager,APAC,Enterprise,0,LinkedIn,48,0
+R706,Manufacturing,Manager,APAC,SMB,0,Email,61,0
+R707,Healthcare,Specialist,EMEA,SMB,5,Phone,75,0
+R708,Retail,Manager,EMEA,Enterprise,0,LinkedIn,68,0
+R709,Healthcare,Director,APAC,Enterprise,0,Email,64,0
+R710,Technology,Manager,APAC,Enterprise,2,Email,61,0
+R711,Retail,Director,EMEA,Enterprise,0,Phone,66,0
+R712,Technology,Manager,APAC,Enterprise,0,Email,63,0
+R713,Technology,Manager,APAC,Enterprise,0,Email,45,0
+R714,Healthcare,Specialist,North America,Mid-market,4,Email,61,0
+R715,Healthcare,Director,LATAM,SMB,2,Email,44,0
+R716,Manufacturing,C-Suite,North America,Mid-market,0,LinkedIn,61,0
+R717,Retail,Director,North America,Mid-market,0,Email,53,0
+R718,Manufacturing,C-Suite,EMEA,Enterprise,4,Email,98,0
+R719,Finance,Manager,North America,SMB,0,Email,59,0
+R720,Retail,C-Suite,EMEA,SMB,0,Email,39,0
+R721,Manufacturing,Manager,North America,SMB,0,Phone,58,0
+R722,Finance,Specialist,EMEA,SMB,0,Email,68,0
+R723,Finance,Director,EMEA,SMB,0,Phone,85,0
+R724,Retail,Manager,APAC,Mid-market,0,Email,51,0
+R725,Technology,Manager,APAC,Enterprise,0,Email,36,0
+R726,Retail,Manager,EMEA,Mid-market,0,Phone,72,0
+R727,Finance,Director,North America,SMB,1,Email,39,0
+R728,Retail,Manager,North America,SMB,0,LinkedIn,53,0
+R729,Finance,C-Suite,North America,Mid-market,0,Phone,56,0
+R730,Finance,Manager,EMEA,Enterprise,0,Email,59,0
+R731,Finance,Specialist,LATAM,Mid-market,0,Email,70,0
+R732,Retail,Manager,LATAM,SMB,0,LinkedIn,50,0
+R733,Technology,Specialist,LATAM,Mid-market,0,Email,56,0
+R734,Technology,Manager,North America,Mid-market,1,Email,60,0
+R735,Healthcare,Director,EMEA,Enterprise,4,Email,62,0
+R736,Manufacturing,Specialist,North America,Mid-market,0,Email,61,0
+R737,Healthcare,Manager,LATAM,SMB,0,LinkedIn,67,0
+R738,Retail,C-Suite,APAC,Mid-market,0,Email,73,0
+R739,Healthcare,Manager,North America,SMB,2,Email,66,0
+R740,Healthcare,C-Suite,LATAM,Mid-market,1,LinkedIn,67,1
+R741,Technology,C-Suite,EMEA,Mid-market,0,Email,36,0
+R742,Healthcare,Manager,APAC,Enterprise,0,Email,61,0
+R743,Retail,Manager,North America,SMB,1,LinkedIn,67,0
+R744,Technology,Manager,APAC,Mid-market,0,Email,71,0
+R745,Finance,Director,North America,Mid-market,0,LinkedIn,50,0
+R746,Manufacturing,Director,North America,Mid-market,0,Phone,50,0
+R747,Healthcare,Specialist,APAC,SMB,0,Email,51,0
+R748,Technology,Manager,LATAM,Enterprise,1,LinkedIn,68,0
+R749,Manufacturing,Director,EMEA,SMB,3,Email,76,0
+R750,Technology,Manager,North America,Enterprise,0,Email,54,0
+R751,Finance,Director,LATAM,Mid-market,0,Phone,74,0
+R752,Manufacturing,Manager,LATAM,Enterprise,0,Phone,62,0
+R753,Technology,Specialist,LATAM,Mid-market,0,Email,58,0
+R754,Healthcare,Specialist,North America,Mid-market,0,LinkedIn,57,0
+R755,Finance,Director,APAC,Enterprise,0,Phone,71,0
+R756,Retail,C-Suite,LATAM,Mid-market,0,Phone,65,0
+R757,Technology,Director,APAC,SMB,0,LinkedIn,94,0
+R758,Technology,Director,North America,Enterprise,0,Email,47,0
+R759,Manufacturing,C-Suite,APAC,SMB,0,Email,68,0
+R760,Retail,Specialist,North America,Mid-market,0,Phone,52,0
+R761,Finance,Director,APAC,Mid-market,0,Email,47,0
+R762,Healthcare,Director,APAC,Enterprise,4,LinkedIn,60,0
+R763,Finance,Manager,North America,Enterprise,0,Email,62,0
+R764,Retail,Specialist,LATAM,Enterprise,0,Email,100,0
+R765,Finance,Specialist,LATAM,Enterprise,1,Email,57,0
+R766,Technology,Manager,APAC,Enterprise,3,Phone,43,0
+R767,Retail,Specialist,North America,Mid-market,0,Email,64,0
+R768,Manufacturing,Manager,EMEA,SMB,1,LinkedIn,29,0
+R769,Healthcare,C-Suite,North America,SMB,0,Email,59,1
+R770,Retail,Specialist,LATAM,Mid-market,0,Email,60,0
+R771,Finance,Specialist,LATAM,Enterprise,0,Email,72,0
+R772,Retail,Director,North America,Enterprise,0,LinkedIn,75,0
+R773,Finance,Director,LATAM,Mid-market,0,Email,52,0
+R774,Healthcare,Specialist,EMEA,Enterprise,0,Email,58,0
+R775,Retail,C-Suite,EMEA,Mid-market,0,Email,49,0
+R776,Finance,Manager,North America,Mid-market,0,Email,43,0
+R777,Finance,Specialist,North America,Mid-market,0,Phone,65,0
+R778,Retail,Director,APAC,Mid-market,0,Phone,41,0
+R779,Retail,C-Suite,LATAM,SMB,0,Email,54,0
+R780,Technology,Manager,EMEA,SMB,1,LinkedIn,45,0
+R781,Technology,Manager,EMEA,Mid-market,1,Phone,68,0
+R782,Technology,Director,APAC,SMB,1,Email,87,0
+R783,Healthcare,Specialist,LATAM,SMB,0,Phone,40,0
+R784,Healthcare,Director,LATAM,Mid-market,1,Phone,32,0
+R785,Finance,C-Suite,EMEA,Mid-market,0,Email,58,0
+R786,Manufacturing,C-Suite,LATAM,Mid-market,0,Email,60,0
+R787,Technology,Specialist,EMEA,SMB,0,Phone,63,0
+R788,Healthcare,Director,North America,SMB,0,LinkedIn,53,0
+R789,Technology,Director,North America,Enterprise,0,Email,57,0
+R790,Manufacturing,Specialist,LATAM,Mid-market,0,Email,66,0
+R791,Finance,C-Suite,LATAM,Mid-market,2,Email,76,0
+R792,Technology,Manager,EMEA,Mid-market,0,LinkedIn,31,0
+R793,Technology,Specialist,LATAM,Enterprise,0,LinkedIn,54,0
+R794,Technology,Specialist,LATAM,SMB,3,Phone,63,0
+R795,Finance,Director,APAC,Mid-market,0,Email,46,0
+R796,Manufacturing,Manager,EMEA,SMB,0,LinkedIn,86,0
+R797,Manufacturing,Director,APAC,SMB,0,LinkedIn,50,0
+R798,Technology,Manager,APAC,SMB,0,Email,59,0
+R799,Technology,Manager,North America,Mid-market,0,Email,68,0
+R800,Manufacturing,Manager,North America,Mid-market,0,Phone,51,0
+R801,Retail,Director,LATAM,Enterprise,0,Phone,32,0
+R802,Finance,Manager,North America,Mid-market,0,Email,54,0
+R803,Technology,Director,LATAM,Enterprise,0,LinkedIn,75,0
+R804,Technology,Manager,LATAM,Mid-market,0,Email,55,0
+R805,Healthcare,Director,EMEA,Enterprise,0,LinkedIn,47,0
+R806,Retail,Manager,LATAM,Enterprise,2,LinkedIn,74,0
+R807,Manufacturing,Director,North America,Enterprise,0,LinkedIn,55,0
+R808,Manufacturing,Specialist,APAC,Enterprise,0,Phone,52,0
+R809,Technology,C-Suite,EMEA,SMB,0,LinkedIn,62,0
+R810,Finance,Specialist,APAC,SMB,0,Email,72,0
+R811,Manufacturing,Specialist,EMEA,Mid-market,0,LinkedIn,96,0
+R812,Retail,Director,North America,Enterprise,0,Email,72,0
+R813,Finance,Specialist,North America,Enterprise,2,Email,77,0
+R814,Manufacturing,Specialist,APAC,Enterprise,1,Email,52,0
+R815,Manufacturing,C-Suite,EMEA,Enterprise,0,Email,45,0
+R816,Technology,Specialist,North America,SMB,1,LinkedIn,61,0
+R817,Technology,Manager,EMEA,Enterprise,0,Email,62,0
+R818,Healthcare,Manager,EMEA,Mid-market,0,LinkedIn,44,0
+R819,Finance,Specialist,LATAM,Enterprise,0,LinkedIn,57,0
+R820,Healthcare,Manager,EMEA,Enterprise,0,Email,66,0
+R821,Retail,Specialist,EMEA,Mid-market,2,Phone,65,0
+R822,Finance,C-Suite,EMEA,Mid-market,0,Email,68,0
+R823,Healthcare,C-Suite,North America,Enterprise,0,Email,64,1
+R824,Healthcare,Manager,North America,Enterprise,5,LinkedIn,52,0
+R825,Technology,Specialist,EMEA,Mid-market,0,Email,52,0
+R826,Manufacturing,Specialist,EMEA,Enterprise,0,Email,42,0
+R827,Healthcare,Specialist,APAC,Enterprise,0,LinkedIn,87,0
+R828,Healthcare,C-Suite,EMEA,SMB,1,LinkedIn,60,1
+R829,Retail,Specialist,LATAM,Mid-market,2,Email,57,0
+R830,Technology,Manager,North America,Mid-market,0,Phone,46,0
+R831,Finance,Specialist,APAC,Mid-market,0,LinkedIn,100,0
+R832,Technology,Director,EMEA,Mid-market,0,Phone,44,0
+R833,Finance,Manager,LATAM,Mid-market,1,Email,54,0
+R834,Finance,Specialist,LATAM,Mid-market,0,LinkedIn,66,0
+R835,Technology,Director,EMEA,SMB,0,Phone,69,0
+R836,Healthcare,Specialist,APAC,Enterprise,5,LinkedIn,74,0
+R837,Manufacturing,Specialist,LATAM,Mid-market,0,LinkedIn,87,0
+R838,Healthcare,C-Suite,LATAM,Mid-market,0,Email,68,1
+R839,Technology,Director,North America,SMB,0,Email,44,0
+R840,Technology,Director,LATAM,Mid-market,5,Email,56,0
+R841,Finance,Specialist,EMEA,Mid-market,0,Email,65,0
+R842,Technology,Director,EMEA,Enterprise,0,Phone,91,0
+R843,Finance,Director,North America,Mid-market,0,Email,39,0
+R844,Manufacturing,Manager,EMEA,Enterprise,0,Phone,78,0
+R845,Finance,Manager,APAC,Mid-market,0,Phone,63,0
+R846,Healthcare,Manager,LATAM,Enterprise,0,Email,73,0
+R847,Finance,Specialist,North America,Mid-market,3,Email,58,0
+R848,Manufacturing,Specialist,LATAM,Enterprise,0,Phone,47,0
+R849,Technology,Manager,LATAM,Mid-market,0,Phone,71,0
+R850,Technology,Specialist,APAC,SMB,0,Email,70,0
+R851,Finance,Director,LATAM,Enterprise,0,Email,75,0
+R852,Retail,Director,APAC,Mid-market,2,LinkedIn,60,0
+R853,Finance,Specialist,EMEA,Mid-market,0,LinkedIn,51,0
+R854,Manufacturing,C-Suite,EMEA,Enterprise,0,Email,37,0
+R855,Finance,C-Suite,North America,SMB,0,LinkedIn,72,0
+R856,Finance,Specialist,LATAM,Enterprise,0,Email,66,0
+R857,Finance,Director,LATAM,Mid-market,0,Email,46,0
+R858,Technology,Director,LATAM,Mid-market,0,Email,52,0
+R859,Technology,Specialist,LATAM,Mid-market,2,Email,53,0
+R860,Finance,Specialist,APAC,Mid-market,3,Email,38,0
+R861,Retail,Specialist,APAC,Enterprise,0,Email,48,0
+R862,Technology,Director,North America,Enterprise,3,Email,43,0
+R863,Technology,C-Suite,LATAM,SMB,0,Email,54,0
+R864,Healthcare,Specialist,LATAM,Mid-market,0,Email,49,0
+R865,Healthcare,Director,LATAM,SMB,0,Phone,36,0
+R866,Technology,C-Suite,North America,SMB,0,Email,90,0
+R867,Finance,Director,EMEA,SMB,0,Email,79,0
+R868,Finance,Specialist,LATAM,Mid-market,0,LinkedIn,48,0
+R869,Manufacturing,Director,APAC,Mid-market,0,Phone,64,0
+R870,Manufacturing,Manager,LATAM,SMB,0,Email,66,0
+R871,Healthcare,Manager,LATAM,Mid-market,0,LinkedIn,78,0
+R872,Healthcare,Manager,APAC,Enterprise,2,LinkedIn,48,0
+R873,Technology,Manager,APAC,SMB,0,LinkedIn,76,0
+R874,Healthcare,Director,APAC,SMB,0,Email,52,0
+R875,Finance,C-Suite,North America,Mid-market,0,LinkedIn,40,0
+R876,Finance,Director,North America,Enterprise,0,Email,71,0
+R877,Retail,Manager,APAC,Mid-market,1,LinkedIn,79,0
+R878,Technology,Director,APAC,SMB,0,LinkedIn,99,0
+R879,Finance,C-Suite,EMEA,SMB,0,Email,42,0
+R880,Finance,Manager,EMEA,Enterprise,2,Phone,70,0
+R881,Finance,C-Suite,APAC,Enterprise,0,Email,54,0
+R882,Technology,Manager,APAC,SMB,0,Phone,72,0
+R883,Finance,Manager,APAC,Mid-market,0,Email,38,0
+R884,Finance,Director,APAC,Mid-market,4,Email,41,0
+R885,Retail,Director,North America,SMB,0,Email,48,0
+R886,Finance,Director,EMEA,Enterprise,0,Phone,61,0
+R887,Technology,Director,LATAM,Mid-market,0,Email,50,0
+R888,Finance,Director,APAC,Enterprise,0,Email,70,0
+R889,Finance,Director,North America,Mid-market,0,Email,75,0
+R890,Finance,Specialist,LATAM,SMB,0,LinkedIn,69,0
+R891,Retail,Manager,EMEA,Mid-market,0,LinkedIn,84,0
+R892,Manufacturing,Director,North America,SMB,3,Email,66,0
+R893,Retail,Manager,North America,Mid-market,1,Email,42,0
+R894,Healthcare,Manager,APAC,Mid-market,0,Email,80,0
+R895,Technology,Director,North America,Enterprise,1,Email,51,0
+R896,Finance,Specialist,North America,Mid-market,0,Email,74,0
+R897,Healthcare,Specialist,LATAM,Mid-market,0,LinkedIn,84,0
+R898,Manufacturing,C-Suite,North America,Enterprise,0,Email,67,0
+R899,Finance,Specialist,North America,Mid-market,1,Email,38,0
+R900,Finance,Specialist,North America,Mid-market,1,Email,46,0
+R901,Finance,Specialist,North America,SMB,0,Phone,80,0
+R902,Finance,Specialist,LATAM,Mid-market,5,Phone,57,0
+R903,Finance,Manager,LATAM,SMB,0,Phone,61,0
+R904,Technology,Manager,North America,Enterprise,1,Email,71,0
+R905,Healthcare,Director,LATAM,Enterprise,5,Email,70,0
+R906,Manufacturing,C-Suite,LATAM,Mid-market,0,Email,64,0
+R907,Retail,Specialist,EMEA,Mid-market,1,Email,57,0
+R908,Healthcare,Specialist,LATAM,Enterprise,0,LinkedIn,55,0
+R909,Healthcare,Director,EMEA,SMB,0,LinkedIn,73,0
+R910,Healthcare,Manager,North America,SMB,0,Phone,68,0
+R911,Technology,Manager,EMEA,Mid-market,0,Phone,56,0
+R912,Healthcare,Director,EMEA,Enterprise,3,Email,76,0
+R913,Technology,Manager,APAC,SMB,0,LinkedIn,58,0
+R914,Healthcare,Director,North America,Mid-market,0,Email,47,0
+R915,Technology,Manager,APAC,SMB,1,Email,49,0
+R916,Healthcare,Specialist,EMEA,SMB,3,LinkedIn,45,0
+R917,Healthcare,C-Suite,North America,SMB,0,Email,56,1
+R918,Manufacturing,Manager,LATAM,Mid-market,5,Email,79,0
+R919,Retail,Manager,EMEA,Enterprise,0,Email,48,0
+R920,Finance,Specialist,APAC,Mid-market,2,LinkedIn,63,0
+R921,Manufacturing,Director,APAC,Mid-market,0,LinkedIn,50,0
+R922,Technology,Manager,APAC,SMB,0,Email,56,0
+R923,Manufacturing,Director,APAC,Enterprise,0,Phone,37,0
+R924,Retail,Specialist,LATAM,Enterprise,0,Email,57,0
+R925,Healthcare,Director,EMEA,SMB,0,Email,57,0
+R926,Finance,Manager,LATAM,SMB,0,LinkedIn,68,0
+R927,Healthcare,Manager,LATAM,SMB,0,LinkedIn,63,0
+R928,Technology,Specialist,EMEA,SMB,3,Phone,42,0
+R929,Technology,Manager,North America,Mid-market,0,Email,76,0
+R930,Healthcare,C-Suite,North America,Mid-market,0,LinkedIn,63,1
+R931,Finance,Director,North America,SMB,0,LinkedIn,63,0
+R932,Retail,Director,North America,Mid-market,0,Phone,60,0
+R933,Manufacturing,Director,APAC,Mid-market,2,Email,52,0
+R934,Technology,Specialist,EMEA,Enterprise,2,LinkedIn,63,0
+R935,Finance,C-Suite,North America,Mid-market,0,LinkedIn,67,0
+R936,Healthcare,C-Suite,LATAM,SMB,0,Email,34,1
+R937,Finance,Specialist,EMEA,Enterprise,1,Email,52,0
+R938,Manufacturing,Director,APAC,Enterprise,0,Email,56,0
+R939,Finance,Manager,North America,Mid-market,1,LinkedIn,64,0
+R940,Technology,Director,North America,Enterprise,0,Phone,78,0
+R941,Healthcare,Director,North America,Enterprise,1,LinkedIn,48,0
+R942,Technology,Manager,North America,Mid-market,0,LinkedIn,53,0
+R943,Technology,Director,EMEA,SMB,0,LinkedIn,52,0
+R944,Retail,Manager,North America,Mid-market,5,Email,48,0
+R945,Finance,Manager,APAC,Enterprise,0,Email,55,0
+R946,Finance,Manager,APAC,Enterprise,0,Email,72,0
+R947,Finance,Manager,North America,Mid-market,0,Email,44,0
+R948,Manufacturing,Specialist,EMEA,Mid-market,0,Email,66,0
+R949,Manufacturing,Director,LATAM,SMB,0,LinkedIn,34,0
+R950,Technology,Director,North America,Mid-market,0,Email,52,0
+R951,Technology,Manager,North America,SMB,0,Email,55,0
+R952,Technology,Manager,North America,Enterprise,0,Email,85,0
+R953,Finance,Specialist,EMEA,Mid-market,1,Email,56,0
+R954,Manufacturing,Specialist,APAC,Enterprise,0,Phone,27,0
+R955,Healthcare,Manager,LATAM,SMB,0,Phone,30,0
+R956,Healthcare,Specialist,APAC,Mid-market,0,LinkedIn,61,0
+R957,Technology,Manager,EMEA,Mid-market,0,Email,69,0
+R958,Finance,Specialist,APAC,Enterprise,0,LinkedIn,66,0
+R959,Finance,C-Suite,EMEA,Enterprise,0,Phone,63,0
+R960,Retail,Manager,LATAM,Mid-market,0,LinkedIn,77,0
+R961,Finance,Manager,APAC,Enterprise,0,Email,52,0
+R962,Technology,Director,LATAM,Mid-market,0,LinkedIn,73,0
+R963,Finance,Specialist,EMEA,Enterprise,0,Phone,36,0
+R964,Healthcare,Director,EMEA,Mid-market,0,LinkedIn,46,0
+R965,Healthcare,Director,APAC,SMB,0,LinkedIn,33,0
+R966,Healthcare,C-Suite,LATAM,SMB,0,Email,56,1
+R967,Retail,Specialist,North America,SMB,0,LinkedIn,59,0
+R968,Healthcare,Specialist,North America,Enterprise,2,Email,62,0
+R969,Technology,Manager,LATAM,Enterprise,0,LinkedIn,61,0
+R970,Technology,Manager,EMEA,Mid-market,0,Email,46,0
+R971,Technology,C-Suite,North America,Mid-market,0,Email,57,0
+R972,Manufacturing,Specialist,LATAM,Mid-market,0,Email,38,0
+R973,Retail,Director,EMEA,Enterprise,0,LinkedIn,80,0
+R974,Finance,C-Suite,APAC,Enterprise,0,Email,55,0
+R975,Finance,Manager,EMEA,Enterprise,1,LinkedIn,53,0
+R976,Healthcare,Specialist,LATAM,SMB,0,LinkedIn,84,0
+R977,Technology,Manager,EMEA,Enterprise,4,Email,41,0
+R978,Finance,Specialist,APAC,Mid-market,0,Email,43,0
+R979,Technology,Manager,APAC,Enterprise,0,Email,44,0
+R980,Technology,Manager,EMEA,Mid-market,0,Phone,59,0
+R981,Healthcare,Director,APAC,Mid-market,0,LinkedIn,66,0
+R982,Retail,C-Suite,APAC,SMB,0,Email,71,0
+R983,Finance,Manager,LATAM,SMB,0,Email,99,0
+R984,Finance,Manager,APAC,Mid-market,0,LinkedIn,26,0
+R985,Retail,Director,LATAM,SMB,5,Phone,69,0
+R986,Technology,Manager,EMEA,SMB,2,Phone,52,0
+R987,Technology,Specialist,EMEA,SMB,0,LinkedIn,51,0
+R988,Healthcare,Director,APAC,SMB,0,Email,51,0
+R989,Finance,Manager,LATAM,Enterprise,0,Email,46,0
+R990,Retail,Manager,EMEA,Mid-market,0,Email,85,0
+R991,Retail,C-Suite,North America,Enterprise,0,Email,73,0
+R992,Technology,Manager,LATAM,Enterprise,0,Email,60,0
+R993,Healthcare,Specialist,EMEA,SMB,0,Email,80,0
+R994,Technology,Specialist,North America,Mid-market,0,Email,37,0
+R995,Healthcare,Director,EMEA,SMB,4,Phone,40,0
+R996,Finance,Director,LATAM,SMB,0,LinkedIn,27,0
+R997,Manufacturing,Manager,LATAM,SMB,3,Phone,50,0
+R998,Finance,Director,EMEA,SMB,0,LinkedIn,62,0
+R999,Manufacturing,C-Suite,North America,Enterprise,0,Email,62,0
+R1000,Healthcare,Specialist,EMEA,Enterprise,0,LinkedIn,62,0
